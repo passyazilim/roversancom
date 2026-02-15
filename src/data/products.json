@@ -1,0 +1,238 @@
+{
+  "products": [
+    {
+      "name": "Ananas Frutti",
+      "image": "/images/products/ananas-frutti.jpg",
+      "category": "Frutti",
+      "color": "from-yellow-500 to-orange-500"
+    },
+    {
+      "name": "Çilek Frutti",
+      "image": "/images/products/cilek-frutti.jpg",
+      "category": "Frutti",
+      "color": "from-red-500 to-pink-500"
+    },
+    {
+      "name": "Coconut Frutti",
+      "image": "/images/products/coconut-frutti.jpg",
+      "category": "Frutti",
+      "color": "from-amber-600 to-yellow-600"
+    },
+    {
+      "name": "Cola Frutti",
+      "image": "/images/products/cola-frutti.jpg",
+      "category": "Frutti",
+      "color": "from-gray-700 to-gray-900"
+    },
+    {
+      "name": "Elma Frutti",
+      "image": "/images/products/elma-frutti.jpg",
+      "category": "Frutti",
+      "color": "from-green-500 to-emerald-500"
+    },
+    {
+      "name": "Gazoz Frutti",
+      "image": "/images/products/gazoz-frutti.jpg",
+      "category": "Frutti",
+      "color": "from-cyan-500 to-blue-500"
+    },
+    {
+      "name": "Guava Frutti",
+      "image": "/images/products/guava-frutti.jpg",
+      "category": "Frutti",
+      "color": "from-pink-500 to-rose-500"
+    },
+    {
+      "name": "Karışık Frutti",
+      "image": "/images/products/karisik-frutti.jpg",
+      "category": "Frutti",
+      "color": "from-purple-500 to-pink-500"
+    },
+    {
+      "name": "Kiraz Frutti",
+      "image": "/images/products/kiraz-frutti.jpg",
+      "category": "Frutti",
+      "color": "from-red-600 to-rose-600"
+    },
+    {
+      "name": "Kivi Frutti",
+      "image": "/images/products/kivi-frutti.jpg",
+      "category": "Frutti",
+      "color": "from-lime-500 to-green-500"
+    },
+    {
+      "name": "Limon Frutti",
+      "image": "/images/products/limon.jpg",
+      "category": "Frutti",
+      "color": "from-yellow-400 to-lime-400"
+    },
+    {
+      "name": "Mango Frutti",
+      "image": "/images/products/mango-frutti.jpg",
+      "category": "Frutti",
+      "color": "from-orange-500 to-amber-500"
+    },
+    {
+      "name": "Muz Frutti",
+      "image": "/images/products/muz-frutti.jpg",
+      "category": "Frutti",
+      "color": "from-yellow-300 to-yellow-500"
+    },
+    {
+      "name": "Nar Frutti",
+      "image": "/images/products/nar-frutti.jpg",
+      "category": "Frutti",
+      "color": "from-red-700 to-rose-700"
+    },
+    {
+      "name": "Passion Frutti",
+      "image": "/images/products/passion-frutti.jpg",
+      "category": "Frutti",
+      "color": "from-purple-600 to-fuchsia-600"
+    },
+    {
+      "name": "Portakal Frutti",
+      "image": "/images/products/portakal-frutti.jpg",
+      "category": "Frutti",
+      "color": "from-orange-500 to-red-500"
+    },
+    {
+      "name": "Şeftali Frutti",
+      "image": "/images/products/seftali-frutti.jpg",
+      "category": "Frutti",
+      "color": "from-orange-300 to-pink-400"
+    },
+    {
+      "name": "Soursop Frutti",
+      "image": "/images/products/soursop-frutti.jpg",
+      "category": "Frutti",
+      "color": "from-teal-500 to-cyan-500"
+    },
+    {
+      "name": "Tamerhindi Frutti",
+      "image": "/images/products/tamerhindi-frutti.jpg",
+      "category": "Frutti",
+      "color": "from-amber-700 to-orange-700"
+    },
+    {
+      "name": "Zencefil Frutti",
+      "image": "/images/products/zencefil-frutti.jpg",
+      "category": "Frutti",
+      "color": "from-amber-600 to-yellow-700"
+    },
+    {
+      "name": "Lolipop Frutti",
+      "image": "/images/products/lolipop-frutti.jpg",
+      "category": "Frutti Dream Lolipop",
+      "color": "from-pink-400 to-purple-500"
+    },
+    {
+      "name": "Keita Ananas",
+      "image": "/images/products/keita-ananas.jpg",
+      "category": "Keita",
+      "color": "from-blue-600 to-cyan-600"
+    },
+    {
+      "name": "Keita Chop Chop",
+      "image": "/images/products/keita-chop-chop.jpg",
+      "category": "Keita",
+      "color": "from-indigo-600 to-blue-600"
+    },
+    {
+      "name": "Keita Cola",
+      "image": "/images/products/keita-cola.jpg",
+      "category": "Keita",
+      "color": "from-blue-700 to-indigo-700"
+    },
+    {
+      "name": "Keita Portakal",
+      "image": "/images/products/keita-portakal.jpg",
+      "category": "Keita",
+      "color": "from-blue-500 to-sky-500"
+    },
+    {
+      "name": "Keita Zencefil",
+      "image": "/images/products/keita-zencefil.jpg",
+      "category": "Keita",
+      "color": "from-cyan-600 to-teal-600"
+    },
+    {
+      "name": "Shirino Limon",
+      "image": "/images/products/shirino-limon.jpg",
+      "category": "Shirino",
+      "color": "from-purple-600 to-violet-600"
+    },
+    {
+      "name": "Shirino Portakal",
+      "image": "/images/products/shirino-portakal.jpg",
+      "category": "Shirino",
+      "color": "from-purple-500 to-fuchsia-500"
+    },
+    {
+      "name": "Shirino Şeftali",
+      "image": "/images/products/shirino-seftali.jpg",
+      "category": "Shirino",
+      "color": "from-violet-500 to-purple-600"
+    },
+    {
+      "name": "Shirino Vişne",
+      "image": "/images/products/shirino-visne.jpg",
+      "category": "Shirino",
+      "color": "from-fuchsia-600 to-purple-700"
+    },
+    {
+      "name": "Brawoo 2 in 1",
+      "image": "/images/products/brawoo-2-in-1.jpg",
+      "category": "Kahve",
+      "color": "from-amber-700 to-brown-700"
+    },
+    {
+      "name": "Brawoo 3 in 1 Hazır Karışık Kahve",
+      "image": "/images/products/brawoo-3-in-1-kahve.jpg",
+      "category": "Kahve",
+      "color": "from-amber-800 to-brown-800"
+    },
+    {
+      "name": "Brawoo 3 in 1 Fındık Aromalı Karışık Kahve",
+      "image": "/images/products/brawoo-3-in-1-kahve-1.jpg",
+      "category": "Kahve",
+      "color": "from-amber-800 to-brown-800"
+    },
+    {
+      "name": "Frutti 3 in 1 Kahve (Kutu)",
+      "image": "/images/products/frutti-3-in-1-kahve-kutu.jpg",
+      "category": "Kahve",
+      "color": "from-orange-700 to-red-700"
+    },
+    {
+      "name": "Frutti 3 in 1 Kahve (Poşet)",
+      "image": "/images/products/frutti-3-in-1-kahve-poset.jpg",
+      "category": "Kahve",
+      "color": "from-red-600 to-pink-600"
+    },
+    {
+      "name": "Brawali Dubai Çikolatalı Cappucino",
+      "image": "/images/products/dubai brawali.jpeg",
+      "category": "Kahve",
+      "color": "from-brown-600 to-amber-700"
+    },
+    {
+      "name": "Let's Go Energy Drink",
+      "image": "/images/products/letsgo foto.jpeg",
+      "category": "Enerji İçeceği",
+      "color": "from-lime-500 to-green-600"
+    },
+    {
+      "name": "İkili Slush Buzlaş Makinesi",
+      "image": "/images/products/ikili-slush-buzlas-makinesi.jpg",
+      "category": "Buzlaş",
+      "color": "from-sky-600 to-blue-700"
+    },
+    {
+      "name": "Üçlü Slush Buzlaş Makinesi",
+      "image": "/images/products/uclu-slush-buzlas-makinesi.jpg",
+      "category": "Buzlaş",
+      "color": "from-blue-600 to-indigo-700"
+    }
+  ]
+}

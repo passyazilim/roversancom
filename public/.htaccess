@@ -1,0 +1,74 @@
+# Next.js Static Export - Apache Configuration
+# Bu dosya static export için gerekli yönlendirmeleri sağlar
+
+# Set default index file
+DirectoryIndex index.html
+
+# Enable Rewrite Engine
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # Handle trailing slashes
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_URI} !(.*)/$
+  RewriteRule ^(.*)$ $1/ [L,R=301]
+
+  # Handle locale routing - ensure trailing slash
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_URI} ^/(tr|en|ar|es)(/.*)?$
+  RewriteCond %{REQUEST_URI} !(.*)/$
+  RewriteRule ^(tr|en|ar|es)(/.*)?$ /$1$2/ [L,R=301]
+  
+  # Handle locale routing - serve index.html for directories
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_URI} ^/(tr|en|ar|es)(/.*)?/$
+  RewriteRule ^(tr|en|ar|es)(/.*)?/$ $1$2/index.html [L]
+  
+  # Fallback: if file doesn't exist, try index.html in same directory
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_URI} ^/(tr|en|ar|es)(/.*)$
+  RewriteRule ^(tr|en|ar|es)(/.*)$ $1$2/index.html [L]
+
+  # Redirect root to default locale
+  RewriteCond %{REQUEST_URI} ^/$
+  RewriteRule ^(.*)$ /tr/ [R=301,L]
+
+  # Handle 404 errors
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule . /404.html [L]
+</IfModule>
+
+# Security Headers
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+  Header set X-Frame-Options "SAMEORIGIN"
+  Header set X-XSS-Protection "1; mode=block"
+</IfModule>
+
+# Enable Compression
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/json
+</IfModule>
+
+# Cache Control
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/jpg "access plus 1 year"
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType image/gif "access plus 1 year"
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType image/webp "access plus 1 year"
+  ExpiresByType text/css "access plus 1 month"
+  ExpiresByType application/javascript "access plus 1 month"
+  ExpiresByType text/html "access plus 0 seconds"
+</IfModule>
+
+# Allow access to all files by default (static export)
+# FilesMatch direktifleri 403 hatasına neden olabilir, bu yüzden kaldırıldı
+# Sunucu yapılandırmasında gerekli güvenlik ayarları yapılmalı
+

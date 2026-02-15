@@ -1,0 +1,1079 @@
+{
+  "common": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "products": "Ürünler",
+    "gallery": "Galeri",
+    "catalog": "Katalog",
+    "quality": "Kalite",
+    "contact": "İletişim",
+    "viewCatalog": "Ürün Kataloğunu Görüntüle",
+    "contactUs": "Bizimle İletişime Geç",
+    "allProducts": "Tüm Ürünler",
+    "learnMore": "Daha Fazla Bilgi",
+    "getInfo": "Bilgi Al",
+    "search": "Ara",
+    "filter": "Filtre",
+    "close": "Kapat",
+    "next": "Sonraki",
+    "previous": "Önceki",
+    "send": "Gönder",
+    "submit": "Gönder",
+    "loading": "Yükleniyor...",
+    "viewAll": "Tümünü Gör",
+    "language": "Dil",
+    "orderNow": "Sipariş Ver",
+    "previousProduct": "Önceki ürün",
+    "nextProduct": "Sonraki ürün",
+    "premiumQuality": "Premium Kalite",
+    "viewDetails": "Detayları Gör",
+    "productNotFound": "Ürün Bulunamadı",
+    "showAllProducts": "Tüm Ürünleri Göster",
+    "image": "Görsel",
+    "altTexts": {
+      "logo": "Roversan Gıda",
+      "logoNavbar": "Roversan Gıda Logo"
+    }
+  },
+  "home": {
+    "hero": {
+      "badge": "🏆 Kaliteli Toz İçecek ve Kahve Üreticisi",
+      "title": "Lezzetin Adresi",
+      "subtitle": "Roversan Gıda",
+      "description": "Geniş ürün yelpazemiz ve çeşitli markalarımız ile\n sofralarınıza lezzet ve kalite katıyoruz",
+      "trust": {
+        "iso": "ISO Sertifikalı",
+        "halal": "Helal & Kosher",
+        "export": "50+ Ülkeye İhracat"
+      },
+      "scrollToProducts": "Ürün Gruplarına Git"
+    },
+    "advertisement": {
+      "title": "Reklam Filmlerimiz",
+      "heading": "Markamızı Keşfedin",
+      "description": "Ürünlerimizin hikayesini ve kalitemizi keşfedin"
+    },
+    "products": {
+      "badge": "⭐ ÖNE ÇIKAN ÜRÜNLER",
+      "title": "En Popüler Ürünlerimiz",
+      "description": "Her zevke uygun, kaliteli ve lezzetli ürünlerimizi keşfedin",
+      "features": {
+        "natural": "✓ %100 Doğal",
+        "iso": "✓ ISO Sertifikalı",
+        "halal": "✓ Helal Ürün"
+      },
+      "badges": {
+        "popular": "🍊 En Popüler",
+        "new": "✨ Yeni Ürün",
+        "bestseller": "❤️ Çok Satan",
+        "tropical": "🥝 Tropik",
+        "exotic": "🥭 Egzotik",
+        "classic": "☕ Klasik"
+      },
+      "slider": {
+        "portakal": "Taze portakal aromasıyla ferahlatan lezzet",
+        "dubai": "Dubai'nin efsane lezzeti özel formülümüzle",
+        "cilek": "Tatlı çilek aromasıyla keyifli anlar",
+        "kivi": "Egzotik kivi lezzeti ile benzersiz tat",
+        "mango": "Tropik mango aromasıyla lezzetli serinlik",
+        "brawoo": "3 in 1 instant kahve ile pratik lezzet",
+        "ananasFrutti": "Tropik ananas aromasıyla ferahlatan lezzet",
+        "elmaFrutti": "Taze elma aromasıyla doğal lezzet",
+        "narFrutti": "Antioksidan zengini nar lezzeti",
+        "seftaliFrutti": "Tatlı şeftali aromasıyla keyifli anlar",
+        "kirazFrutti": "Tatlı kiraz aromasıyla özel lezzet",
+        "muzFrutti": "Kremalı muz aromasıyla lezzetli serinlik",
+        "limonFrutti": "Ferahlatıcı limon aromasıyla doğal lezzet",
+        "zencefilFrutti": "Isıtıcı zencefil aromasıyla özel lezzet",
+        "guavaFrutti": "Egzotik guava lezzeti ile benzersiz tat",
+        "passionFrutti": "Tropik passion fruit aromasıyla lezzetli serinlik",
+        "soursopFrutti": "Egzotik soursop lezzeti ile özel tat",
+        "tamerhindiFrutti": "Geleneksel tamarhindi lezzeti",
+        "coconutFrutti": "Tropik hindistan cevizi aromasıyla lezzetli serinlik",
+        "colaFrutti": "Klasik cola lezzeti ile ferahlatan içecek",
+        "gazozFrutti": "Geleneksel gazoz lezzeti ile keyifli anlar",
+        "lolipopFrutti": "Eğlenceli lolipop aromasıyla özel lezzet",
+        "karisikFrutti": "Karışık meyve aromalarıyla zengin lezzet",
+        "keitaPortakal": "Taze portakal aromasıyla Keita kalitesi",
+        "keitaAnanas": "Tropik ananas aromasıyla Keita lezzeti",
+        "keitaCola": "Klasik cola lezzeti ile Keita kalitesi",
+        "keitaChopChop": "Özel karışım Keita Chop Chop lezzeti",
+        "keitaZencefil": "Isıtıcı zencefil aromasıyla Keita özel lezzeti",
+        "shirinoPortakal": "Taze portakal aromasıyla Shirino kalitesi",
+        "shirinoSeftali": "Tatlı şeftali aromasıyla Shirino lezzeti",
+        "shirinoVisne": "Ekşi tatlı vişne aromasıyla özel lezzet",
+        "shirinoLimon": "Ferahlatıcı limon aromasıyla Shirino kalitesi",
+        "brawoo2in1": "2 in 1 instant kahve ile pratik lezzet",
+        "frutti3in1Kutu": "3 in 1 instant kahve kutu ambalaj",
+        "frutti3in1Poset": "3 in 1 instant kahve poşet ambalaj",
+        "buzlas": "Ferahlatıcı buzlaş içeceği",
+        "letsGo": "Enerji veren Lets Go içeceği",
+        "ikiliSlush": "İkili slush makinesi ile profesyonel servis",
+        "ucluSlush": "Üçlü slush makinesi ile yüksek kapasiteli servis"
+      }
+    },
+    "whyUs": {
+      "badge": "NEDEN BİZİ SEÇMELİSİNİZ?",
+      "title": "Neden Roversan Gıda?",
+      "description": "Kalite, güven ve yenilikçi çözümlerle gıda sektöründe öncü olmaya devam ediyoruz",
+      "features": {
+        "natural": {
+          "title": "100% Doğal Ürünler",
+          "description": "Doğal ve sağlıklı hammaddeler kullanarak en yüksek kalitede ürünler üretiyoruz."
+        },
+        "certificates": {
+          "title": "Uluslararası Sertifikalar",
+          "description": "ISO, Helal ve Kosher sertifikalarımızla güvenilir kalite standartları sunuyoruz."
+        },
+        "global": {
+          "title": "Global İhracat",
+          "description": "50'den fazla ülkeye ihracat yaparak global pazarda güçlü bir konumdayız."
+        },
+        "modern": {
+          "title": "Modern Tesis",
+          "description": "Son teknoloji üretim tesislerimizle en yüksek kalite ve hijyen standartlarını sağlıyoruz."
+        },
+        "customer": {
+          "title": "Müşteri Memnuniyeti",
+          "description": "Müşterilerimizin memnuniyeti bizim önceliğimizdir. Her adımda yanınızdayız."
+        },
+        "quality": {
+          "title": "Kalite Garantisi",
+          "description": "Her ürünümüzde kalite garantisi sunarak güvenilir bir marka olmaya devam ediyoruz."
+        }
+      }
+    },
+    "about": {
+      "badge": "Hakkımızda",
+      "title": "Roversan Gıda Hakkında",
+      "description": "toz içecek ve kahve kategorilerinde yüksek kalite standartlarında üretim yapıyoruz.",
+      "points": {
+        "certificates": "ISO, Helal ve Kosher sertifikalarıyla güvence",
+        "variety": "Geniş aroma seçenekleri ve tutarlı kalite",
+        "export": "50+ ülkeye uzanan ihracat ağı"
+      },
+      "cta": {
+        "aboutDetails": "Hakkımızda Detayları",
+        "certificates": "Sertifikalarımız"
+      },
+      "summary": {
+        "badge": "Hakkımızda",
+        "title": "Modern tesislerde premium üretim, dünya ile buluşan lezzet",
+        "description": "Şanlıurfa'daki modern üretim tesisimizde çeşitli markalarımız altında toz içecek ve kahve kategorilerinde yüksek kalite standartlarında üretim yapıyoruz.",
+        "point1": "ISO, Helal ve Kosher sertifikalarıyla güvence",
+        "point2": "Geniş aroma seçenekleri ve tutarlı kalite",
+        "point3": "50+ ülkeye uzanan ihracat ağı",
+        "button1": "Hakkımızda Detayları",
+        "button2": "Kalite & Sertifikalar",
+        "stat1": "Ülke",
+        "stat2": "Kalite Odaklı",
+        "stat3": "Ürün",
+        "premiumProduction": "Premium Üretim",
+        "currentStandards": "Güncel standartlar"
+      },
+      "keywords": {
+        "premium": "Premium",
+        "iso": "ISO",
+        "halal": "Helal",
+        "kosher": "Kosher",
+        "global": "Global",
+        "taste": "Lezzet",
+        "innovation": "İnovasyon",
+        "trust": "Güven"
+      }
+    },
+    "categories": {
+      "title": "Ürün Kategorilerimiz",
+      "subtitle": "Geniş ürün yelpazemizle her ihtiyaca uygun çözümler",
+      "sectionTitle": "ÜRÜN KATEGORİLERİ",
+      "sectionHeading": "Geniş Ürün Yelpazesi",
+      "sectionDescription": "Her ihtiyaca uygun, kaliteli ve çeşitli ürün kategorilerimizle size en iyi çözümleri sunuyoruz",
+      "exploreCategory": "Kategoriyi Keşfet",
+      "exploreAll": "Tüm Ürünleri Keşfet",
+      "frutti": {
+        "name": "Frutti Dream",
+        "series": "Toz İçecek Serisi",
+        "description": "Portakal, çilek, limon, mango ve daha fazlası ile geniş aroma seçenekleri",
+        "badge": "20+ Aromalı"
+      },
+      "keita": {
+        "name": "Keita",
+        "series": "Toz İçecek Serisi",
+        "description": "Kola, zencefil, ananas, chop chop ve portakal ile premium lezzet",
+        "badge": "5+ Premium"
+      },
+      "shirino": {
+        "name": "Shirino",
+        "series": "Toz İçecek Serisi",
+        "description": "Portakal, limon, şeftali ve vişne ile ferahlatıcı lezzetler",
+        "badge": "4+ Özel"
+      },
+      "coffee": {
+        "name": "Hazır Kahve",
+        "series": "Hazır Kahve Serisi",
+        "description": "3'ü 1 arada instant kahve çeşitleri ile pratik ve lezzetli çözüm",
+        "badge": "☕ Premium Kahve"
+      }
+    },
+    "brands": {
+      "title": "Kaliteli Ürünlerimizle Tanışın!",
+      "description": "Sürekli genişleyen marka portföyümüzle, kalite ve lezzeti bir araya getirerek sizlere en iyi hizmeti sunuyoruz.",
+      "sectionTitle": "🏆 MARKALARIMIZ",
+      "sectionHeading": "Güven Veren Markalar",
+      "sectionDescription": "Dünya çapında tercih edilen markalarımızı keşfedin",
+      "premiumProducts": "Premium Ürünler",
+      "brandNames": {
+        "frutti": "Frutti",
+        "keita": "Keita",
+        "shirino": "Shirino",
+        "brawoo": "Brawoo",
+        "fruttiKahve": "Frutti Kahve",
+        "brawali": "Brawali",
+        "fresh": "Fresh"
+      }
+    },
+    "stats": {
+      "title": "Rakamlarla Roversan",
+      "description": "Başarımızı gösteren sayılar",
+      "products": {
+        "title": "Ürün Çeşidi",
+        "description": "Geniş ürün portföyü"
+      },
+      "countries": {
+        "title": "İhracat Ülkesi",
+        "description": "Global erişim"
+      },
+      "quality": {
+        "title": "Kalite Garantisi",
+        "description": "Sıkı kalite kontrol"
+      },
+      "experience": {
+        "title": "Yıllık Deneyim",
+        "description": "Sektörde Öncü"
+      },
+      "certificate": {
+        "title": "Sertifika",
+        "description": "Kalite Belgeleri"
+      }
+    }
+  },
+  "products": {
+    "hero": {
+      "badge": "🛍️ ÜRÜN KATALOĞUMUZ",
+      "title": "Premium Ürün",
+      "subtitle": "Kalite ve lezzetin buluştuğu nokta. Her ürün, mükemmellik standartlarımızın bir yansıması. ✨",
+      "cta": {
+        "title": "Toplu Sipariş mi İstiyorsunuz?",
+        "downloadCatalog": "PDF Kataloğu İndir"
+      }
+    },
+    "search": {
+      "placeholder": "Ürün ara...",
+      "noResults": "Aradığınız ürün bulunamadı"
+    },
+    "categories": {
+      "all": "Tümü",
+      "frutti": "Frutti Dream Toz İçecek",
+      "keita": "Keita Toz İçecek",
+      "shirino": "Shirino Toz İçecek",
+      "fruttiDreamLolipop": "Frutti Dream Lolipop",
+      "kahve": "Hazır Kahve",
+      "enerji": "Enerji İçeceği",
+      "buzlaş": "Buzlaş Makinesi"
+    },
+    "categorySubtitle": {
+      "frutti": "Frutti Dream Toz İçecek Serisi",
+      "keita": "Keita Toz İçecek Serisi",
+      "shirino": "Shirino Toz İçecek Serisi",
+      "fruttiDreamLolipop": "Renkli Meyveli Lolipop Çeşitleri",
+      "kahve": "Hazır Kahve Serisi",
+      "enerji": "Enerji İçeceği",
+      "buzlaş": "Buzlaş Makine Serisi"
+    },
+    "modal": {
+      "brand": "Marka",
+      "weight": "Ağırlık / Miktar",
+      "code": "Kod / P. code",
+      "packInfo": "Koli İçi Adedi / Units per pack",
+      "variants": "Varyantlar",
+      "details": "Detay",
+      "features": "Özellikler",
+      "close": "Kapat",
+      "showInfo": "Ürün Bilgilerini Gör",
+      "hideInfo": "Ürün Bilgilerini Gizle",
+      "showInfoMobile": "Bilgiler",
+      "hideInfoMobile": "Gizle"
+    },
+    "features": {
+      "tasty": "Lezzetli",
+      "premium": "Premium Kalite",
+      "iso": "ISO Sertifikalı",
+      "light": "Hafif Formula",
+      "taurine": "Taurin",
+      "carbonated": "Gazlı Tad",
+      "guaranteed": "Garantili",
+      "quality": "Kaliteli",
+      "quick": "Hızlı Hazırlık",
+      "antioxidant": "Antioksidan",
+      "citrus": "Narenciye Aroma",
+      "labels": {
+        "vitaminC": "Vitamin C",
+        "naturalFlavor": "Doğal Aroma",
+        "easyPreparation": "Kolay Hazırlık",
+        "refreshing": "Serinletici",
+        "tasty": "Lezzetli",
+        "premiumQuality": "Premium Kalite",
+        "energyBoosting": "Enerji Verici",
+        "richTaste": "Zengin Tat",
+        "practical": "Pratik",
+        "isoCertified": "ISO Sertifikalı",
+        "lightFormula": "Hafif Formula",
+        "refreshingEffect": "Ferahlatıcı",
+        "naturalTastes": "Doğal Tatlar",
+        "healthy": "Sağlıklı",
+        "economical": "Ekonomik",
+        "premiumCoffee": "Premium Kahve",
+        "creamy": "Kremalı",
+        "aromatic": "Aromatik",
+        "energy": "Enerji",
+        "caffeine": "Kafein",
+        "bVitamins": "B Vitaminleri",
+        "carbonatedTaste": "Gazlı Tad",
+        "professional": "Profesyonel",
+        "durable": "Dayanıklı",
+        "efficient": "Verimli",
+        "guaranteed": "Garantili",
+        "quality": "Kaliteli",
+        "creamyTexture": "Kremalı Doku",
+        "aromaticNotes": "Aromatik Notlar",
+        "quickPreparation": "Hızlı Hazırlık",
+        "qualityLabel": "Kalite",
+        "freshTaste": "Ferah Tat",
+        "antioxidant": "Antioksidan",
+        "citrusAroma": "Narenciye Aroma",
+        "betaCarotene": "Beta-Karoten",
+        "intenseTaste": "Yoğun Tat",
+        "bromelain": "Bromelain",
+        "tropicalAroma": "Tropikal Aroma",
+        "vitaminA": "A Vitamini",
+        "tropical": "Tropikal",
+        "superC": "Süper C",
+        "fiber": "Lif",
+        "fresh": "Ferah",
+        "pectin": "Pektin",
+        "appleAroma": "Elma Aroması",
+        "lightDrink": "Hafif İçim",
+        "intenseAroma": "Yoğun Aroma",
+        "exotic": "Egzotik",
+        "mineral": "Mineral",
+        "sourSweet": "Ekşi-Tatlı",
+        "ginger": "Zencefil",
+        "potassium": "Potasyum",
+        "coconut": "Hindistan Cevizi",
+        "colaFlavor": "Kola Aroması",
+        "revitalizing": "Canlandırıcı",
+        "foamy": "Köpüklü",
+        "fruitMix": "Meyve Karışımı",
+        "vitaminSupport": "Vitamin Desteği"
+      },
+      "descriptions": {
+        "dailyNeed80": "Günlük ihtiyacın %80'i",
+        "noArtificialSweetener": "Yapay tatlandırıcı yok",
+        "readyIn30Sec": "30 saniyede hazır",
+        "idealForIced": "Buzlu içime ideal",
+        "realFruitTaste": "Gerçek meyve tadı",
+        "specialFormula": "Özel formül",
+        "allDayEnergy": "Gün boyu enerji",
+        "intenseFlavor": "Yoğun lezzet",
+        "prepareAnywhere": "Her yerde hazırla",
+        "qualityGuarantee": "Kalite garantisi",
+        "lowCalorie": "Az kalorili",
+        "coolingEffect": "Serinleten etki",
+        "noArtificialColor": "Yapay renk yok",
+        "vitaminEnriched": "Vitamin takviyeli",
+        "affordablePrice": "Uygun fiyat",
+        "selectBeans": "Seçkin çekirdek",
+        "softTexture": "Yumuşak doku",
+        "intenseScent": "Yoğun koku",
+        "caffeineBoost": "Kafein boost",
+        "readyNow": "Hemen hazır",
+        "vigorAndPerformance": "Dinçlik ve performans",
+        "metabolismSupport": "Metabolizma desteği",
+        "quickEnergy": "Hızlı enerji",
+        "moreEnjoyableWithIce": "Buzla daha keyifli",
+        "revitalizingDrink": "Canlandırıcı içim",
+        "forBusinesses": "İşletmeler için",
+        "longLasting": "Uzun ömürlü",
+        "lowEnergy": "Düşük enerji",
+        "twoYearWarranty": "2 yıl garanti",
+        "premiumMaterial": "Premium malzeme",
+        "energyAndFocus": "Enerji ve odak sağlar",
+        "softDrink": "Yumuşak içim",
+        "richCoffeeAroma": "Zengin kahve aroması",
+        "justAddHotWater": "Sadece sıcak su ekleyin",
+        "selectedBeanBlend": "Seçili çekirdek karışımı",
+        "highVitaminC": "Yüksek C vitamini",
+        "citrusFreshness": "Narenciye tazeliği",
+        "naturalProtection": "Doğal koruma",
+        "perfectWithIce": "Buzla mükemmel",
+        "immunitySupport": "Bağışıklık desteği",
+        "naturalOrangeTaste": "Doğal portakal tadı",
+        "naturalColorAndFlavor": "Doğal renk ve lezzet",
+        "idealForSummer": "Yaz için ideal",
+        "richPolyphenols": "Zengin polifenoller",
+        "dailySupport": "Günlük destek",
+        "balancedSourSweet": "Dengeli ekşi-tatlı",
+        "naturalEnzymeSupport": "Doğal enzim desteği",
+        "exoticFlavor": "Egzotik lezzet",
+        "dailyContribution": "Günlük katkı",
+        "naturalSupport": "Doğal destek",
+        "freshFruitTaste": "Taze meyve tadı",
+        "refinedFlavor": "Rafine lezzet",
+        "betaCaroteneSource": "Beta-karoten kaynağı",
+        "intenseFruitAroma": "Yoğun meyve aroması",
+        "greatWithIce": "Buzla harika",
+        "veryHighVitaminC": "Çok yüksek C vitamini",
+        "lightAndBalanced": "Hafif ve dengeli",
+        "sharpFreshness": "Keskin tazelik",
+        "naturalFiber": "Doğal lif",
+        "balancedTaste": "Dengeli tat",
+        "suitableForEveryDay": "Her güne uygun",
+        "naturalPhytoComponents": "Doğal fito-bileşenler",
+        "richFruitNote": "Zengin meyve notası",
+        "sweetAndBalanced": "Tatlı ve dengeli",
+        "lightContent": "Hafif içerik",
+        "strongAromaticTaste": "Güçlü aromatik tat",
+        "specialFruitAroma": "Özel meyve aroması",
+        "naturalMineralSource": "Doğal mineral kaynağı",
+        "balancedFlavor": "Dengeli lezzet",
+        "freshnessAndWarming": "Ferahlık ve ısıtıcı etki",
+        "sharpAndBalanced": "Keskin ve dengeli",
+        "tropicalCreamyTaste": "Tropikal kremamsı tat",
+        "classicFlavor": "Klasik lezzet",
+        "coolingDrink": "Serinletici içim",
+        "lightCarbonatedFeel": "Hafif gazlı his",
+        "lemonadeHint": "Limonata esintisi",
+        "richAromaProfile": "Zengin aroma profili",
+        "balancedContent": "Dengeli içerik"
+      }
+    },
+    "productNames": {
+      "portakalFrutti": "Portakal Aromalı Toz İçecek",
+      "çilekFrutti": "Çilek Aromalı Toz İçecek",
+      "mangoFrutti": "Mango Aromalı Toz İçecek",
+      "ananasFrutti": "Ananas Aromalı Toz İçecek",
+      "colaFrutti": "Cola Aromalı Toz İçecek",
+      "coconutFrutti": "Coconut Aromalı Toz İçecek",
+      "limonFrutti": "Limon Aromalı Toz İçecek",
+      "narFrutti": "Nar Aromalı Toz İçecek",
+      "muzFrutti": "Muz Aromalı Toz İçecek",
+      "zencefilFrutti": "Zencefil Aromalı Toz İçecek",
+      "şeftaliFrutti": "Şeftali Aromalı Toz İçecek",
+      "karışıkFrutti": "Karışık Aromalı Toz İçecek",
+      "tamerhindiFrutti": "Tamerhindi Aromalı Toz İçecek",
+      "soursopFrutti": "Soursop Aromalı Toz İçecek",
+      "passionFrutti": "Passion Aromalı Toz İçecek",
+      "guavaFrutti": "Guava Aromalı Toz İçecek",
+      "kiviFrutti": "Kivi Aromalı Toz İçecek",
+      "elmaFrutti": "Elma Aromalı Toz İçecek",
+      "gazozFrutti": "Gazoz Aromalı Toz İçecek",
+      "kirazFrutti": "Kiraz Aromalı Toz İçecek",
+      "lolipopFrutti": "Renkli Meyveli Lolipop Çeşitleri",
+      "keitaAnanas": "Ananas Aromalı Toz İçecek",
+      "keitaChopChop": "Chop Chop Aromalı Toz İçecek",
+      "keitaCola": "Cola Aromalı Toz İçecek",
+      "keitaPortakal": "Portakal Aromalı Toz İçecek",
+      "keitaZencefil": "Zencefil Aromalı Toz İçecek",
+      "shirinoLimon": "Limon Aromalı Toz İçecek",
+      "shirinoPortakal": "Portakal Aromalı Toz İçecek",
+      "shirinoŞeftali": "Şeftali Aromalı Toz İçecek",
+      "shirinoVişne": "Vişne Aromalı Toz İçecek",
+      "buzlas": "Buzlaş İçeceği",
+      "brawoo2in1": "Brawoo 2 in 1 Hazır Karışık Kahve",
+      "brawoo3in1": "Brawoo 3 in 1 Hazır Karışık Kahve",
+      "brawoo3in1Karisik": "Brawoo 3 in 1 Hazır Karışık Kahve",
+      "brawoo3in1Findik": "Brawoo 3 in 1 Fındık Aromalı Karışık Kahve",
+      "frutti3in1Kutu": "Frutti 3 in 1 Kahve (Kutu) - Hazır Karışık Kahve",
+      "frutti3in1Poşet": "Frutti 3 in 1 Kahve (Poşet) - Hazır Karışık Kahve",
+      "dubaiCappucino": "Brawali Dubai Çikolatalı Cappucino - Hazır Kahve",
+      "letsGoEnergy": "Let's Go Energy Drink - Enerji İçeceği",
+      "ikiliSlush": "İkili Slush Buzlaş Makinesi - Slush Makinesi",
+      "üçlüSlush": "Üçlü Slush Buzlaş Makinesi - Slush Makinesi"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Kalite ve Güvenin",
+      "subtitle": "Lezzet Adresi",
+      "description": "20 yılı aşkın deneyimimizle gıda sektöründe güvenilir ve yenilikçi çözümler üretiyoruz"
+    },
+    "stats": {
+      "productVariety": "Ürün Çeşidi",
+      "exportCountries": "İhracat Ülkesi",
+      "qualityGuarantee": "Kalite Garantisi",
+      "yearsExperience": "Yıllık Tecrübe"
+    },
+    "mission": {
+      "title": "Misyonumuz",
+      "description": "Kaliteli gıda ürünleri üreterek dünya çapında müşterilerimize en iyi hizmeti sunmak"
+    },
+    "vision": {
+      "title": "Vizyonumuz",
+      "description": "Gıda sektöründe lider konumda olmak ve sürdürülebilir büyüme sağlamak"
+    },
+    "goals": {
+      "title": "Hedeflerimiz",
+      "items": {
+        "quality": "Sürekli Kalite İyileştirme",
+        "innovation": "Yenilikçi Ürün Geliştirme",
+        "expansion": "Global Pazar Genişlemesi",
+        "sustainability": "Sürdürülebilir Üretim"
+      }
+    },
+    "values": {
+      "badge": "TEMEL DEĞERLERİMİZ",
+      "title": "Bizi Farklı Kılan Değerler",
+      "subtitle": "İş yapış şeklimizi belirleyen ve bizi öne çıkaran prensipler",
+      "items": {
+        "quality": {
+          "title": "Kalite",
+          "description": "En yüksek standartlarda üretim"
+        },
+        "innovation": {
+          "title": "Yenilikçilik",
+          "description": "Sürekli gelişim ve Ar-Ge"
+        },
+        "trust": {
+          "title": "Güven",
+          "description": "Müşterilerimizle güvene dayalı ilişkiler"
+        },
+        "global": {
+          "title": "Global Vizyon",
+          "description": "Dünya pazarlarında büyüme"
+        }
+      }
+    },
+    "company": {
+      "badge": "FİRMAMIZ",
+      "title": "Roversan Gıda",
+      "description1": "Şanlıurfa GAP Gıda İmalatçılar Sitesi'nde modern tesisimizde, toz içecek ve kahve üretiminde uzmanlaşmış lider bir firmayız.",
+      "description2": "Çeşitli markalarımız altında ürettiğimiz toz içecek ve kahve ürünlerimiz, yurt içi ve yurt dışı pazarlarda geniş bir kitle tarafından tercih edilmektedir.",
+      "description3": "Modern tesisimizde uluslararası kalite standartlarına tam uyum sağlayarak üretim yapmaktayız.",
+      "trustProduction": "Güvenilir Üretim",
+      "fullyCertified": "Tam Sertifikalı",
+      "isoCertified": "ISO Sertifikalı",
+      "internationalQuality": "Uluslararası Kalite"
+    },
+    "missionVision": {
+      "badge": "VİZYON & MİSYON",
+      "mission": {
+        "description1": "En yüksek kalite standartlarında toz içecek ve kahve ürünleri üreterek, müşterilerimize lezzetli ve güvenilir ürünler sunmak.",
+        "description2": "Yenilikçi ürünlerimiz ve kaliteli hizmetimizle müşteri memnuniyetini en üst seviyede tutarak, sektörde öncü bir marka olmak."
+      },
+      "vision": {
+        "description1": "Gıda sektöründe global bir marka olmak ve müşterilerimize sürekli değer katmak.",
+        "description2": "Yenilikçi yaklaşımımız, kaliteli ürünlerimiz ve sürdürülebilir büyüme ile sektöre değer katmak."
+      },
+      "goals": {
+        "title": "Hedeflerimiz",
+        "description": "Geleceğe dönük stratejilerimiz ve temel değerlerimiz"
+      }
+    }
+  },
+    "contact": {
+      "hero": {
+        "title": "Bizimle İletişime Geçin",
+        "description": "Sorularınız, önerileriniz veya iş birliği teklifleriniz için bize ulaşın"
+      },
+    "form": {
+      "name": "Ad Soyad",
+      "namePlaceholder": "Adınız ve Soyadınız",
+      "email": "E-posta",
+      "emailPlaceholder": "ornek@email.com",
+      "phone": "Telefon",
+      "phonePlaceholder": "+90 5XX XXX XX XX",
+      "country": "Ülke",
+      "countryPlaceholder": "Ülke Seçiniz",
+      "subject": "Konu",
+      "message": "Mesajınız",
+      "messagePlaceholder": "Mesajınızı buraya yazın...",
+      "send": "Mesajı Gönder",
+      "sending": "Gönderiliyor...",
+      "success": "Mesajınız başarıyla gönderildi!",
+      "error": "Bir hata oluştu. Lütfen tekrar deneyin.",
+      "required": "Bu alan zorunludur",
+      "subjects": {
+        "select": "Konu Seçiniz",
+        "general": "Genel Bilgi",
+        "product": "Ürün Bilgisi",
+        "export": "İhracat Talebi",
+        "price": "Fiyat Teklifi",
+        "other": "Diğer"
+      },
+      "title": "Bize Mesaj Gönderin",
+      "selectSubject": "Konu Seçiniz",
+      "willReply": "En kısa sürede size dönüş yapacağız.",
+      "errorMessage": "Lütfen tekrar deneyin veya telefon ile iletişime geçin."
+    },
+      "info": {
+        "title": "İletişim Bilgilerimiz",
+        "address": "Adres",
+        "phone": "Telefon",
+        "whatsapp": "WhatsApp",
+        "email": "E-posta",
+        "hours": "Çalışma Saatleri",
+        "hoursDetail": "Pazartesi - Cuma: 08:00 - 18:00\nCumartesi: 09:00 - 14:00\nPazar: Kapalı",
+        "quickContact": {
+          "title": "Hızlı İletişim",
+          "description": "Acil durumlar ve hızlı teklif talepleriniz için doğrudan telefonla veya WhatsApp ile iletişime geçebilirsiniz.",
+          "call": "Hemen Ara",
+          "whatsapp": "WhatsApp'tan Yaz"
+        },
+        "addressDetail": "Kadıkendi Mah. 8502. Cad. No: 12\nEyyübiye / Şanlıurfa / Türkiye",
+        "phoneNumber": "+90 414 316 63 69",
+        "whatsappNumber": "+90 542 721 32 29",
+        "whatsappMessage": "Merhaba, Roversan Gıda hakkında bilgi almak istiyorum.",
+        "whatsappAvailable": "7/24 Mesaj Gönderin",
+        "emailDetail": "info@roversan.com",
+        "phoneFax": "Telefon ve Faks"
+      },
+    "referral": {
+      "title": "Roversan'ı Nereden Duydunuz?",
+      "subtitle": "(Birden fazla seçenek işaretleyebilirsiniz)",
+      "fairs": "Fuarlar / Etkinlikler",
+      "website": "İnternet / Web Sitesi",
+      "social": "Sosyal Medya",
+      "recommendation": "Tavsiye / Referans",
+      "search": "Google Arama",
+      "industry": "Sektör İçinde",
+      "other": "Diğer"
+    },
+    "cta": {
+      "title": "Daha Fazla Bilgi mi İstiyorsunuz?",
+      "description": "Ürünlerimiz, hizmetlerimiz ve iş birliği fırsatları hakkında detaylı bilgi için kataloglarımıza göz atın.",
+      "productCatalog": "Ürün Kataloğu",
+      "contactUs": "İletişime Geç",
+      "googleMaps": "Google Maps'te Aç"
+    },
+    "map": {
+      "locationTitle": "Konumumuz",
+      "facilityName": "Roversan Gıda Tesisleri",
+      "getDirections": "Yol Tarifi Al",
+      "callNow": "Hemen Ara",
+      "visitTitle": "Bizi Ziyaret Edin",
+      "visitDescription": "Tesislerimizi ziyaret etmek için bizimle iletişime geçebilirsiniz",
+      "requiredFields": " ile işaretli alanlar zorunludur",
+      "formDescription": "Formu doldurun, size en kısa sürede dönüş yapalım."
+    }
+  },
+  "certificates": {
+    "hero": {
+      "title": "Kalite & Sertifikalar",
+      "description": "Uluslararası kalite standartlarında üretim ve tam uyumluluk"
+    },
+    "qualityPolicy": {
+      "title": "Kalite Politikamız",
+      "description1": "Roversan Gıda olarak, gıda güvenliği ve kalite yönetimi konularında en yüksek standartları benimsiyoruz.",
+      "description2": "ISO 9001, ISO 22000, HACCP, Helal, Kosher ve GMP sertifikalarımız ile uluslararası kalite standartlarına tam uyum sağlıyoruz.",
+      "description3": "Tüm üretim süreçlerimizde kalite kontrolü yapılarak, müşterilerimize en güvenilir ve kaliteli ürünleri sunuyoruz."
+    },
+    "principles": {
+      "foodSafety": {
+        "title": "Gıda Güvenliği",
+        "description": "Hammadde girişinden son ürüne kadar her aşamada gıda güvenliği kontrolü"
+      },
+      "hygiene": {
+        "title": "Hijyen Standartları",
+        "description": "Dünya standartlarında hijyen kuralları ve temizlik protokolleri"
+      },
+      "improvement": {
+        "title": "Sürekli İyileştirme",
+        "description": "Kalite yönetim sistemlerinin sürekli gözden geçirilmesi ve geliştirilmesi"
+      }
+    },
+    "badge": "🏆 SERTİFİKALARIMIZ",
+    "assurance": {
+      "title": "Kalite Güvencemiz",
+      "description": "Uluslararası standartlarda sertifikalarımızla kalite taahhüdümüzü ispatlıyoruz",
+      "scope": "Kapsam:"
+    },
+    "cta": {
+      "title": "Kalite Belgeleri Hakkında Detaylı Bilgi",
+      "description": "Sertifikalarımız ve kalite yönetim sistemimiz hakkında daha fazla bilgi almak için bizimle iletişime geçebilirsiniz."
+    },
+    "certificates": {
+      "iso9001": {
+        "title": "ISO 9001:2015",
+        "description": "Kalite Yönetim Sistemi sertifikamız ile üretim süreçlerimizin uluslararası standartlarda yönetildiğini teyit ediyoruz.",
+        "scope": "Gıda ürünlerinin üretimi ve satışı"
+      },
+      "iso22000": {
+        "title": "ISO 22000:2018",
+        "description": "Gıda Güvenliği Yönetim Sistemi sertifikası ile gıda güvenliğini tüm süreçlerde garanti ediyoruz.",
+        "scope": "Gıda güvenliği yönetim sistemi"
+      },
+      "haccp": {
+        "title": "HACCP",
+        "description": "Hazard Analysis and Critical Control Points sistemi ile gıda güvenliği risklerini analiz ediyor ve kontrol altında tutuyoruz.",
+        "scope": "Kritik kontrol noktalarının yönetimi"
+      },
+      "halal": {
+        "title": "Helal Sertifikası",
+        "description": "İslami kurallara uygun üretim yapıldığını teyit eden Helal sertifikamız ile Müslüman pazarlara hizmet veriyoruz.",
+        "scope": "Uluslararası Helal Sertifikasyon"
+      },
+      "kosher": {
+        "title": "Kosher Sertifikası",
+        "description": "Yahudi dini kurallarına uygun üretim yapıldığını gösteren Kosher sertifikamız ile geniş bir pazara ulaşıyoruz.",
+        "scope": "Uluslararası Kosher Sertifikasyon"
+      },
+      "gmp": {
+        "title": "GMP",
+        "description": "Good Manufacturing Practices (İyi Üretim Uygulamaları) standartlarına tam uyum sağlıyoruz.",
+        "scope": "Üretim süreçlerinin optimizasyonu"
+      }
+    },
+    "qualityControl": {
+      "badge": "⚙️ KALİTE SÜRECİ",
+      "title": "5 Aşamalı Kalite Kontrol Sistemimiz",
+      "description": "Her ürünümüz, üretimden sevkiyata kadar 5 kritik aşamadan geçer",
+      "steps": {
+        "raw": {
+          "title": "Hammadde Kontrolü",
+          "description": "Tüm hammaddeler tesisimize giriş yapmadan önce sıkı kalite kontrolünden geçer."
+        },
+        "production": {
+          "title": "Üretim İçi Kontroller",
+          "description": "Üretim sırasında belirlenen kritik kontrol noktalarında düzenli kontroller yapılır."
+        },
+        "lab": {
+          "title": "Laboratuvar Analizleri",
+          "description": "Her üretim partisinden numuneler alınarak mikrobiyolojik ve kimyasal analizler yapılır."
+        },
+        "packaging": {
+          "title": "Ambalajlama Kontrolü",
+          "description": "Ambalajlama aşamasında etiket bilgileri, gramaj ve ambalaj bütünlüğü kontrol edilir."
+        },
+        "final": {
+          "title": "Son Ürün Kontrolü",
+          "description": "Sevkiyat öncesi son kontroller yapılır ve tüm kalite kriterleri karşılanan ürünler müşteriye gönderilir."
+        }
+      }
+    }
+  },
+  "catalog": {
+    "hero": {
+      "title": "Ürün Kataloğu",
+      "description": "Tüm ürünlerimizi detaylı olarak inceleyin. PDF formatında kataloğumuzu indirerek ürün bilgilerine ulaşabilirsiniz."
+    },
+    "catalog": {
+      "title": "Roversan Gıda Kataloğu",
+      "description": "Tüm ürün gamımızı, teknik özellikleri ve ambalaj seçeneklerini içeren detaylı kataloğumuzu indirin.",
+      "download": "Kataloğu İndir (PDF)",
+      "allProducts": "Tüm Ürünler",
+      "productCount": "50+ Ürün",
+      "items": {
+        "powerDrinks": "Çeşitli toz içecek ürünleri",
+        "coffee": "Hazır kahve ürünleri",
+        "machines": "Buzlaş makineleri ve ekipmanlar",
+        "technical": "Teknik özellikler ve ambalaj bilgileri"
+      }
+    },
+    "features": {
+      "products": {
+        "title": "50+ Ürün",
+        "description": "Geniş ürün yelpazemiz ile tüm ihtiyaçlarınıza cevap veriyoruz."
+      },
+      "details": {
+        "title": "Detaylı Bilgi",
+        "description": "Her ürün için teknik özellikler ve kullanım bilgileri."
+      },
+      "access": {
+        "title": "Kolay Erişim",
+        "description": "PDF formatında indirip dilediğiniz zaman inceleyebilirsiniz."
+      }
+    },
+    "preview": {
+      "title": "Katalog Önizlemesi",
+      "description": "Aşağıda kataloğumuzu inceleyebilir veya PDF olarak indirebilirsiniz",
+      "pdfTitle": "PDF Katalog",
+      "interactive": "İnteraktif önizleme",
+      "iframeTitle": "Roversan Gıda Kataloğu Önizlemesi",
+      "close": "Kapat"
+    },
+    "badges": {
+      "pdfFormat": "PDF Format",
+      "multiLanguage": "Çoklu Dil",
+      "premium": "Premium"
+    },
+    "buttons": {
+      "fullscreen": "Tam Ekran",
+      "download": "İndir"
+    },
+    "cta": {
+      "title": "Detaylı Bilgi İçin",
+      "description": "Ürünlerimiz hakkında daha fazla bilgi almak veya fiyat teklifi için bizimle iletişime geçin."
+    }
+  },
+  "gallery": {
+    "hero": {
+      "title": "Galeri",
+      "description": "Reklam filmlerimiz, fuarlarımız ve etkinliklerimizden özel anlar"
+    },
+    "advertisement": {
+      "title": "Reklam Filmlerimiz",
+      "heading": "Markamızı Keşfedin",
+      "description": "Ürünlerimizin hikayesini ve kalitemizi keşfedin",
+      "latestVideos": "Markamızın en yeni reklam filmleri"
+    },
+    "photos": {
+      "title": "Galeri Fotoğrafları"
+    },
+    "modal": {
+      "close": "Kapat",
+      "previous": "Önceki",
+      "next": "Sonraki"
+    }
+  },
+  "footer": {
+    "company": {
+      "name": "Roversan Gıda",
+      "description": "Kaliteli gıda üretimi ve ihracatında güvenilir iş ortağınız."
+    },
+    "quickLinks": {
+      "title": "Hızlı Linkler",
+      "about": "Hakkımızda",
+      "products": "Ürünlerimiz",
+      "catalog": "Katalog",
+      "certificates": "Kalite & Sertifikalar",
+      "contact": "İletişim"
+    },
+    "products": {
+      "title": "Ürünlerimiz",
+      "frutti": "Frutti Toz İçecekler",
+      "keita": "Keita Toz İçecekler",
+      "shirino": "Shirino Toz İçecekler",
+      "brawoo": "Brawoo Kahve",
+      "brawali": "Brawali Kahve",
+      "fruttiKahve": "Frutti Kahve",
+      "letsgo": "Let's Go Enerji İçeceği",
+      "fresh": "Fresh",
+      "machines": "Buzlaş Makineleri"
+    },
+    "contact": {
+      "title": "İletişim",
+      "address": "Kadıkendi Mah. 8502. Cad. No: 12,\nEyyübiye / Şanlıurfa / Türkiye",
+      "phone": "+90 414 316 63 69",
+      "whatsapp": "+90 542 721 32 29",
+      "email": "info@roversan.com"
+    },
+    "copyright": "© {year} Roversan Gıda. Tüm hakları saklıdır.",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Koşulları",
+    "developedBy": "✨ tarafından geliştirildi"
+  },
+  "languages": {
+    "tr": "Türkçe",
+    "en": "English",
+    "ar": "العربية",
+    "es": "Español"
+  },
+  "terms": {
+    "title": "Kullanım Koşulları",
+    "intro": "Bu web sitesini kullanarak aşağıdaki kullanım koşullarını kabul etmiş sayılırsınız. Lütfen koşulları dikkatlice okuyunuz.",
+    "sections": {
+      "general": {
+        "title": "1. Genel Kullanım",
+        "content": "Bu web sitesi Roversan Gıda tarafından işletilmektedir. Site içeriği yalnızca bilgilendirme amaçlıdır ve önceden haber verilmeksizin değiştirilebilir."
+      },
+      "property": {
+        "title": "2. Fikri Mülkiyet Hakları",
+        "content": "Bu web sitesinde yer alan tüm içerik, tasarım, logo, metin, görsel ve diğer materyaller Roversan Gıda'nın mülkiyetindedir ve telif hakları ile korunmaktadır."
+      },
+      "restrictions": {
+        "title": "3. Kullanım Kısıtlamaları",
+        "intro": "Web sitesini aşağıdaki amaçlarla kullanmamanız gerekmektedir:",
+        "illegal": "Yasadışı veya yetkisiz amaçlar için",
+        "rights": "Başkalarının haklarını ihlal edecek şekilde",
+        "virus": "Zararlı yazılım veya virüs yaymak için",
+        "security": "Site güvenliğini tehdit edecek şekilde"
+      },
+      "product": {
+        "title": "4. Ürün Bilgileri",
+        "content": "Web sitesinde yer alan ürün bilgileri ve fiyatlar bilgilendirme amaçlıdır. Roversan Gıda, ürün özelliklerini ve fiyatları önceden haber vermeksizin değiştirme hakkını saklı tutar."
+      },
+      "thirdParty": {
+        "title": "5. Üçüncü Taraf Bağlantıları",
+        "content": "Web sitemiz, üçüncü taraf web sitelerine bağlantılar içerebilir. Bu sitelerin içeriğinden Roversan Gıda sorumlu değildir."
+      },
+      "liability": {
+        "title": "6. Sorumluluk Sınırlaması",
+        "content": "Roversan Gıda, web sitesinin kullanımından kaynaklanan doğrudan veya dolaylı zararlardan sorumlu tutulamaz."
+      },
+      "changes": {
+        "title": "7. Değişiklikler",
+        "content": "Roversan Gıda, bu kullanım koşullarını herhangi bir zamanda güncelleme hakkını saklı tutar. Değişiklikler bu sayfada yayınlanacaktır."
+      },
+      "law": {
+        "title": "8. Uygulanacak Hukuk",
+        "content": "Bu kullanım koşulları Türkiye Cumhuriyeti yasalarına tabidir. Olası uyuşmazlıklarda Şanlıurfa mahkemeleri ve icra daireleri yetkilidir."
+      },
+      "contact": {
+        "title": "9. İletişim",
+        "intro": "Kullanım koşulları hakkında sorularınız için:",
+        "company": "Roversan Gıda",
+        "address": "Kadıkendi Mah. 8502. Cad. No: 12\nEyyübiye / Şanlıurfa / Türkiye",
+        "emailLabel": "E-posta:",
+        "phoneLabel": "Telefon:",
+        "faxLabel": "Faks:"
+      }
+    },
+    "lastUpdate": "Son güncelleme: Ocak 2025"
+  },
+  "privacy": {
+    "title": "Gizlilik Politikamız",
+    "section1": {
+      "title": "1-) Veri Sorumlusunun Kimliği",
+      "content": "Roversan Gıda (\"Şirket\") olarak, kişisel verilerinizin güvenliği ve gizli tutulması hususunda azami önem atfetmekte ve hassasiyet göstermekteyiz. Bu bilinçle ve 6698 sayılı Kişisel Verilerin Korunması Kanunu (\"KVKK\" veya \"Kanun\") nezdinde veri sorumlusu sıfatıyla, elde ettiğimiz kişisel verilere ilişkin Kanun'a uygun hareket edebilmemizi teminen verilerinizin nasıl işlendiği ve kimlerle, hangi durumlarda paylaşılabileceği konularında sizleri bilgilendirmek istiyoruz."
+    },
+    "section2": {
+      "title": "2. Kişisel Verilerin İşlenmesi ve İşleme Amaçları",
+      "intro": "Kişisel Verileriniz, Şirketimiz tarafından hizmetlerin en iyi şekilde sunulabilmesini sağlamak maksadıyla işlenmektedir. Bu kapsamda,",
+      "content": "Şirketimizden ürün veya hizmet alan gerçek kişi müşterilerinden olmanız sebebiyle kişisel verileriniz (kimlik, iletişim, müşteri işlem bilgileri) ile işlenebilecek ve açık rızanızın olması halinde pazarlama analiz çalışmalarının ve sunulan hizmetin pazarlama süreçlerinin yürütülmesi kapsamında segmentasyon/profilleme/reklam/kampanya/promosyon/anket faaliyetlerinin gerçekleştirilmesi, stratejik planlama faaliyetlerinin yürütülmesi, organizasyon ve etkinlik yönetimi, sosyal sorumluluk ve sivil toplum aktivitelerinin yürütülmesi ve bu kapsamında tarafınızla iletişime geçilmesi amacıyla işlenebilecektir.",
+      "website": {
+        "title": "Ayrıca,",
+        "visit": "İnternet sitemizi ziyaret etmeniz halinde; işlem güvenliği verileriniz, 5651 sayılı kanun uyarınca elektronik ortamda oluşan log kayıtlarınızın tutulması,",
+        "online": "İnternet sitemizde online işlem yapmanız veya iletişim formu kullanmanız halinde; kimlik, iletişim ve müşteri işlem verileriniz iletişim taleplerinizin karşılanması, ürün ve hizmet bilgilendirmesi, katalog ve fiyat teklifi sunulması amaçları ile işlenebilecektir."
+      },
+      "principles": "KVK Kanunu çerçevesinde ve denetiminde, ciddi bir gizlilik içerisinde şirketimizce size hizmet gayesi ile kullanılmakta ve işlenmektedir. Şirketimiz tarafından sizlere ait verileri işlerken hukuka ve dürüstlük kuralına riayet edilerek verilerin doğru olmasına, işlemenin kapsamı dışında kullanılmamasına, meşru amaçlar doğrultusunda işlenmesine, verilerin güncel tutulmasına ve hedeflenen amaç için gereken makul süre kadar muhafaza edilmesine dikkat edilmektedir."
+    },
+    "section3": {
+      "title": "3. Kişisel Verilerinizi Kimlere ve Hangi Amaçlarla Aktarıyoruz?",
+      "content": "Toplanan kişisel verileriniz, işbu Gizlilik Politikası'nın 2. maddesinde açıklanan amaçlarla ve Kanun ile ilgili mevzuat kapsamında ve aktarılmasını gerektiren sebeplere bağlı ve bu sebeplerle sınırlı olarak; resmi kurum ve kuruluşlara, bankalara, anlaşmalı hukuk bürolarına, danışmanlara, sizlere sunduğumuz hizmetin kalitesinin artırılması için yapılacak uygulamalar kapsamında yürüttüğümüz faaliyetin doğası gereği paylaşılması gereken taraflarla, denetçi kurumlara ve iş ortaklarımıza ve tedarikçilerimiz dâhil olmak üzere hizmetlerinden faydalandığımız ve işbirliği içerisinde olunan firmalara, operasyonel süreçlerin yürütülmesi, destek ve danışmanlık alınması amaçlarıyla, yurt içinde bulunan bilgi teknolojileri hizmeti sunan firmaların sistemlerine ve Google Analytics, Meta Pixel gibi analitik araçlara KVK Kanunu'nun 8. ve 9. maddelerinde belirtilen kişisel veri işleme şartları ve amaçları çerçevesinde paylaşılabilecektir.",
+      "note": "Çalışanlarımız bu verileri kanun ve gizlilik çerçevesinde kullanmakta ve işlemektedir. Bu veriler, Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi Hakkında Yönetmelik uyarınca belirlenen politika ve prosedürlerimiz çerçevesinde, ilgili faaliyetlerimizin gerektirdiği süreyle işlenmekte olup Şirketimiz ile ilişkiniz kalmadığı, makul veya yasal bir gerekliliğin veya uygunluğun olmadığı durumlarda silinmektedir."
+    },
+    "section4": {
+      "title": "4. Kişisel Verilerinizi Toplamamızın Yöntemi ve Hukuki Sebebi Nedir?",
+      "content": "Kişisel verileriniz, işbu Gizlilik Politikası'nın 2. maddesinde açıklanan amaçlar ile Kanun'da öngörülen temel ilkelere uygun olarak Kanun'un 5. maddesinde belirtilen; kanunlarda açıkça öngörülmesi, hakkın tesisi, kullanılması veya korunması, sözleşmenin kurulması veya ifası, veri sorumlusunun hukuki yükümlülüğü, veri sorumlusunun meşru menfaati ve açık rızanızın bulunması hukuki sebeplerine dayalı ve bunlarla sınırlı olarak; otomatik veya otomatik olmayan yöntemlerle, tarafınızca Şirketimize iletilen sözlü veya yazılı bilgilerden, elektronik posta adresimiz, internet sitemiz, iletişim formumuz, sosyal medya hesaplarımız, resmi kurum ve kuruluşlar, Şirket faaliyetleri kapsamında kullanılan uygulama ve yazılımlardan toplanabilmektedir."
+    },
+    "section5": {
+      "title": "5. Kişisel Verilerin Korunmasına Yönelik Haklarınız",
+      "intro": "Kişisel verilerinizin işlenmesine ilişkin olarak aşağıdaki hakları, Şirketimize yapacağınız yazılı talep ile kullanabilirsiniz. Bu kapsamda iletilen talepler otuz gün içinde sonuçlandırılacaktır.",
+      "rightsIntro": "Kişisel veri sahibi olarak KVK Kanunun 11. Maddesi gereğince;",
+      "rights": {
+        "learn": "Kişisel verinizin işlenip işlenmediğini öğrenme,",
+        "info": "Kişisel veriniz işlenmişse buna ilişkin bilgi talep etme,",
+        "purpose": "Kişisel verinizin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme,",
+        "transfer": "Yurt içinde veya yurt dışında kişisel verinizin aktarıldığı üçüncü kişileri bilme,",
+        "correct": "Kişisel verinizin eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini isteme,",
+        "delete": "Kişisel verinizin KVK Kanunu'nun ve ilgili diğer kanun hükümlerine uygun olarak işlenmiş olmasına rağmen, işlenmesini gerektiren sebeplerin ortadan kalkması halinde silinmesini veya yok edilmesini isteme,",
+        "notify": "Kişisel verinizin düzeltilmesi, silinmesi ya da yok edilmesi halinde bu işlemlerin, kişisel verinizin aktarıldığı üçüncü kişilere bildirilmesini isteme,",
+        "object": "İşlenen verinizin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle aleyhinize bir sonucun ortaya çıkmasına itiraz etme,",
+        "compensation": "Kişisel verinizin kanuna aykırı olarak işlenmesi sebebiyle zarara uğramanız hâlinde zararın giderilmesini talep etme, haklarınız bulunduğunu bilginize sunarız."
+      },
+      "howTo": {
+        "title": "Tarafımıza Bildirmiş Olduğunuz Kişisel Verilerinize İlişkin Haklarınızı Ne Şekilde Kullanabilirsiniz?",
+        "content": "KVK Kanunu'nun 11. maddesi kapsamında kişisel verilerinize ilişkin başvuru hakkınızı, kimliğinizi tevsik edici belgeler ve talebinizi içeren dilekçeniz ile birlikte;",
+        "methods": {
+          "personal": "En yakın Müşteri Hizmetleri Merkezimize şahsen,",
+          "mail": "Kadıkendi Mah. 8502. Cad. No: 12, Eyyübiye / Şanlıurfa / Türkiye adresindeki Şirketimize yazılı olarak,",
+          "registered": "İadeli taahhütlü mektup veya noter kanalıyla,",
+          "email": "info@roversan.com adresine e-posta göndererek iletebilirsiniz."
+        },
+        "note": "Belirtilen kanallar dışından gelen talep ve bildirimler değerlendirmeye alınmayacaktır. Şirketimiz tarafından başvurunuza yazılı olarak cevap verilmesi durumunda on sayfaya kadar ücret alınmamaktadır. On sayfanın üzerindeki her sayfa için 1 TL işlem ücretinin alınacağı hususunu bilgilerinize sunarız. Talebin reddedilmesi halinde, ret nedeni/nedenleri yazılı olarak veya elektronik ortamda gerekçelendirilecektir."
+      }
+    },
+    "section6": {
+      "title": "6. Veri Gizliliği İlkelerinde Yapılacak Değişiklikler",
+      "content": "Mevzuat kapsamında değişiklik olması halinde, https://roversan.com internet sitemizde gerekli duyurular yapılacak olup, Şirketimiz, kişisel verilere ilişkin politika ve prosedürlerinde mevzuat değişikliklerine uyumu sağlamak üzere değişiklik yapma hakkını saklı tutar."
+      },
+      "cookies": {
+      "title": "Çerezler (Cookies)",
+      "content": "Web sitemiz, kullanıcı deneyimini iyileştirmek ve site trafiğini analiz etmek için çerezler kullanmaktadır. Google Analytics ve Meta Pixel gibi analitik araçlar kullanılmaktadır. Tarayıcı ayarlarınızdan çerezleri kontrol edebilir veya reddedebilirsiniz."
+    },
+    "disclosure": {
+      "title": "Kişisel Verilerin Korunması Aydınlatma Metni",
+      "intro": "Roversan Gıda olarak, kişisel verilerinizin güvenliği ve gizli tutulması hususunda azami hassasiyet göstermekteyiz. Bu bilinçle ve 6698 sayılı Kişisel Verilerin Korunması Kanunu (\"KVKK\" veya \"Kanun\") nezdinde veri sorumlusu sıfatıyla, elde ettiğimiz kişisel verilere ilişkin Kanun'a uygun hareket edebilmemizi teminen verilerinizin nasıl işlendiği ve kimlerle, hangi durumlarda paylaşılabileceği konularında sizleri bilgilendirmek istiyoruz.",
+      "section1": {
+        "title": "1. Veri Sorumlusunun Kimliği",
+        "content": "Roversan Gıda (\"Şirket\") olarak, kişisel verilerinizin güvenliği ve gizli tutulması hususunda azami hassasiyet göstermekteyiz. Bu bilinçle ve 6698 sayılı Kişisel Verilerin Korunması Kanunu (\"KVKK\" veya \"Kanun\") nezdinde veri sorumlusu sıfatıyla, elde ettiğimiz kişisel verilere ilişkin Kanun'a uygun hareket edebilmemizi teminen verilerinizin nasıl işlendiği ve kimlerle, hangi durumlarda paylaşılabileceği konularında sizleri bilgilendirmek istiyoruz."
+      },
+      "section2": {
+        "title": "2. Kişisel Verilerin İşlenmesi ve İşleme Amaçları",
+        "intro": "Kişisel Verileriniz, Şirketimiz tarafından hizmetlerin en iyi şekilde sunulabilmesini sağlamak maksadıyla işlenmektedir. Bu kapsamda, aşağıda sayılan verileriniz toplanmaktadır:",
+        "dataTypes": {
+          "identity": "Kimlik Bilgileriniz: ad soyad",
+          "contact": "İletişim Bilgileriniz: e-posta adresi, telefon numarası, adres bilgileri",
+          "transaction": "Müşteri İşlem Veriniz: iletişim formu mesajları, talep bilgileri",
+          "marketing": "Pazarlamaya İlişkin Verileriniz: çerez (cookie) kayıtları, site kullanım verileri"
+        },
+        "purposes": {
+          "intro": "Verileriniz aşağıda sayılan amaçlarla sınırlı olarak işlenmektedir:",
+          "legal": "Şirketimizin tabi olduğu mevzuattan doğan yükümlülüklerimizin yerine getirilmesi",
+          "service": "İletişim taleplerinizin karşılanması ve müşteri hizmetlerinin sunulması",
+          "product": "Ürün ve hizmet bilgilendirmesi, katalog ve fiyat teklifi sunulması",
+          "marketing": "Pazarlama faaliyetlerinin yerine getirilmesi, site kullanım analizi",
+          "analytics": "Google Analytics ve Meta Pixel gibi analitik araçlarla site kullanımının analiz edilmesi",
+          "quality": "Hizmet kalitesinin artırılması ve müşteri memnuniyetinin sağlanması",
+          "security": "Hukuki ve ticari güvenliğin sağlanması"
+        },
+        "principles": "Kişisel verileriniz KVKK çerçevesinde ve denetiminde, ciddi bir gizlilik içerisinde Roversan Gıda tarafından size hizmet gayesi ile kullanılmakta ve işlenmektedir. Roversan Gıda tarafından sizlere ait verileri işlerken hukuka ve dürüstlük kuralına riayet ederek verilerin doğru olmasına, işlemenin kapsamı dışında kullanılmamasına, meşru amaçlar doğrultusunda işlenmesine, verilerin güncel tutulmasına ve hedeflenen amaç için gereken makul süre kadar muhafaza edilmesine dikkat edilmektedir."
+      },
+      "section3": {
+        "title": "3. Kişisel Verilerinizi Kimlere ve Hangi Amaçlarla Aktarıyoruz?",
+        "content": "Kişisel verileriniz, yukarıda belirtilen amaçlarla, mevzuatın izin verdiği ve iş süreçlerimizin gerektirdiği ölçüde, sizlere sunduğumuz hizmetin kalitesinin artırılması için yapılacak uygulamalar kapsamında yürüttüğümüz faaliyetin doğası gereği paylaşılması gereken taraflarla ve kanunen yetkili resmi mercilerle, KVKK'nın 8'inci maddesinde belirtilen kişisel veri işleme şartları ve amaçları çerçevesinde paylaşılabilecektir. Bu kapsamda, Google Analytics ve Meta Pixel gibi analitik araçlarla verileriniz paylaşılabilir. Bu veriler, Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi Hakkında Yönetmelik uyarınca belirlenen politika ve prosedürlerimiz çerçevesinde, işleme amacının gerektirdiği süreyle işlenmekte olup, Şirketimiz ile ilişkiniz kalmadığı, makul veya yasal bir gerekliliğin veya uygunluğun olmadığı durumlarda silinmektedir."
+      },
+      "section4": {
+        "title": "4. Kişisel Verilerinizi Toplamamızın Yöntemi ve Hukuki Sebebi Nedir?",
+        "content": "Kişisel verileriniz, işbu Aydınlatma Metni'nin 2. maddesinde açıklanan amaçlar ile Kanun'da öngörülen temel ilkelere uygun olarak Kanun'un 5. maddesinde belirtilen; kanunlarda açıkça öngörülmesi, hakkın tesisi, kullanılması veya korunması, sözleşmenin kurulması veya ifası, veri sorumlusunun hukuki yükümlülüğü, veri sorumlusunun meşru menfaati ve açık rızanızın bulunması hukuki sebeplerine dayalı ve bunlarla sınırlı olarak; otomatik veya otomatik olmayan yöntemlerle, tarafınızca Şirketimize iletilen sözlü veya yazılı bilgilerden, elektronik posta adresimiz, internet sitemiz, iletişim formumuz, sosyal medya hesaplarımız ve Şirket faaliyetleri kapsamında kullanılan uygulama ve yazılımlardan toplanabilmektedir."
+      },
+      "section5": {
+        "title": "5. Kişisel Verilerin Korunmasına Yönelik Haklarınız",
+        "intro": "Kişisel verilerinizin işlenmesine ilişkin olarak aşağıdaki hakları, Şirketimize yapacağınız yazılı talep ile kullanabilirsiniz. Bu kapsamda iletilen talepler otuz gün içinde sonuçlandırılacaktır. Kişisel veri sahibi olarak KVK Kanunun 11. Maddesi gereğince;",
+      "rights": {
+          "learn": "Kişisel verinizin işlenip işlenmediğini öğrenme",
+          "info": "Kişisel veriniz işlenmişse buna ilişkin bilgi talep etme",
+          "purpose": "Kişisel verinizin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme",
+          "transfer": "Yurt içinde veya yurt dışında kişisel verinizin aktarıldığı üçüncü kişileri bilme",
+          "correct": "Kişisel verinizin eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini isteme",
+          "delete": "Kişisel verinizin KVK Kanunu'nun ve ilgili diğer kanun hükümlerine uygun olarak işlenmiş olmasına rağmen, işlenmesini gerektiren sebeplerin ortadan kalkması halinde silinmesini veya yok edilmesini isteme",
+          "notify": "Kişisel verinizin düzeltilmesi, silinmesi ya da yok edilmesi halinde bu işlemlerin, kişisel verinizin aktarıldığı üçüncü kişilere bildirilmesini isteme",
+          "object": "İşlenen verinizin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle aleyhinize bir sonucun ortaya çıkmasına itiraz etme",
+          "compensation": "Kişisel verinizin kanuna aykırı olarak işlenmesi sebebiyle zarara uğramanız hâlinde zararın giderilmesini talep etme"
+        },
+        "howTo": {
+          "title": "Tarafımıza Bildirmiş Olduğunuz Kişisel Verilerinize İlişkin Haklarınızı Ne Şekilde Kullanabilirsiniz?",
+          "content": "KVK Kanunu'nun 11. maddesi kapsamında kişisel verilerinize ilişkin başvuru hakkınızı kullanmak için aşağıdaki yöntemlerle;",
+          "methods": {
+            "email": "info@roversan.com adresine e-posta göndererek",
+            "mail": "Kadıkendi Mah. 8502. Cad. No: 12, Eyyübiye / Şanlıurfa / Türkiye adresine yazılı olarak",
+            "phone": "+90 414 316 63 69 telefon numarası ile iletişime geçerek"
+          },
+          "note": "Belirtilen kanallar dışından gelen talep ve bildirimler değerlendirmeye alınmayacaktır. Şirketimiz tarafından başvurunuza yazılı olarak cevap verilmesi durumunda on sayfaya kadar ücret alınmamaktadır. Talebin reddedilmesi halinde, ret nedeni/nedenleri yazılı olarak veya elektronik ortamda gerekçelendirilecektir."
+        }
+      },
+      "section6": {
+        "title": "6. Veri Gizliliği İlkelerinde Yapılacak Değişiklikler",
+        "content": "Mevzuat kapsamında değişiklik olması halinde, https://roversan.com internet sitemizde gerekli duyurular yapılacak olup, Şirketimiz, kişisel verilere ilişkin politika ve prosedürlerinde mevzuat değişikliklerine uyumu sağlamak üzere değişiklik yapma hakkını saklı tutar."
+      },
+      "section7": {
+        "title": "7. Değişiklikler",
+        "content": "Roversan Gıda, kişisel verilere ilişkin politika ve prosedürlerinde mevzuat değişikliklerine uyumu sağlamak üzere değişiklik yapma hakkını saklı tutar."
+      },
+      "closing": "Saygılarımızla,"
+    },
+    "cookieBanner": {
+      "title": "Çerez Kullanımı",
+      "message": "Web sitemiz, size en iyi deneyimi sunmak için çerezler kullanmaktadır. Google Analytics ve Meta Pixel gibi analitik araçlar kullanılmaktadır.",
+      "accept": "Kabul Et",
+      "reject": "Reddet",
+      "settings": "Ayarlar",
+      "learnMore": "Daha Fazla Bilgi"
+    }
+  },
+  "metadata": {
+    "title": "Roversan Gıda - Toz İçecek ve Kahve Üretimi",
+    "description": "Geniş ürün yelpazesi ve çeşitli markalarımızla kaliteli toz içecek ve kahve ürünleri. Şanlıurfa'da modern tesisimizde üretim yapıyoruz.",
+    "keywords": "roversan, toz içecek, 3'ü 1 arada kahve, instant kahve, buzlaş makinesi, şanlıurfa gıda, hazır kahve, gıda üretimi"
+  }
+}

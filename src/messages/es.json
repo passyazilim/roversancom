@@ -1,0 +1,1011 @@
+{
+  "common": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "products": "Productos",
+    "gallery": "Galería",
+    "catalog": "Catálogo",
+    "quality": "Calidad",
+    "contact": "Contacto",
+    "viewCatalog": "Ver Catálogo de Productos",
+    "contactUs": "Contáctenos",
+    "allProducts": "Todos los Productos",
+    "learnMore": "Más Información",
+    "getInfo": "Obtener Información",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "close": "Cerrar",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "send": "Enviar",
+    "submit": "Enviar",
+    "loading": "Cargando...",
+    "viewAll": "Ver Todo",
+    "language": "Idioma",
+    "orderNow": "Pedir Ahora",
+    "previousProduct": "Producto anterior",
+    "nextProduct": "Producto siguiente",
+    "premiumQuality": "Calidad Premium",
+    "viewDetails": "Ver Detalles",
+    "productNotFound": "Producto No Encontrado",
+    "showAllProducts": "Mostrar Todos los Productos",
+    "image": "Imagen",
+    "altTexts": {
+      "logo": "Roversan Food",
+      "logoNavbar": "Logo de Roversan Food"
+    }
+  },
+  "home": {
+    "hero": {
+      "badge": "🏆 Fabricante de Bebidas en Polvo y Café de Calidad",
+      "title": "La Dirección del Sabor",
+      "subtitle": "Roversan Food",
+      "description": "Llevamos sabor y calidad a sus mesas con nuestra amplia gama de productos y diverso portafolio de marcas",
+      "trust": {
+        "iso": "Certificado ISO",
+        "halal": "Halal y Kosher",
+        "export": "Exportación a más de 50 países"
+      },
+      "scrollToProducts": "Ir a Grupos de Productos"
+    },
+    "advertisement": {
+      "title": "Nuestros Anuncios",
+      "heading": "Descubre Nuestra Marca",
+      "description": "Descubre la historia y calidad de nuestros productos"
+    },
+    "products": {
+      "badge": "⭐ PRODUCTOS DESTACADOS",
+      "title": "Nuestros Productos Más Populares",
+      "description": "Descubra nuestros productos de calidad y deliciosos adecuados para todos los gustos",
+      "features": {
+        "natural": "✓ 100% Natural",
+        "iso": "✓ Certificado ISO",
+        "halal": "✓ Producto Halal"
+      },
+      "badges": {
+        "popular": "🍊 Más Popular",
+        "new": "✨ Nuevo Producto",
+        "bestseller": "❤️ Más Vendido",
+        "tropical": "🥝 Tropical",
+        "exotic": "🥭 Exótico",
+        "classic": "☕ Clásico"
+      },
+      "slider": {
+        "portakal": "Sabor refrescante con aroma de naranja fresca",
+        "dubai": "El sabor legendario de Dubai con nuestra fórmula especial",
+        "cilek": "Momentos agradables con sabor dulce a fresa",
+        "kivi": "Sabor único con exótico sabor a kiwi",
+        "mango": "Frescura deliciosa con aroma tropical de mango",
+        "brawoo": "Sabor práctico con café instantáneo 3 en 1",
+        "ananasFrutti": "Sabor refrescante con aroma tropical de piña",
+        "elmaFrutti": "Sabor natural con aroma de manzana fresca",
+        "narFrutti": "Sabor de granada rico en antioxidantes",
+        "seftaliFrutti": "Momentos agradables con sabor dulce a durazno",
+        "kirazFrutti": "Sabor especial con sabor dulce a cereza",
+        "muzFrutti": "Frescura deliciosa con aroma cremoso de plátano",
+        "limonFrutti": "Sabor natural con aroma refrescante de limón",
+        "zencefilFrutti": "Sabor especial con aroma cálido de jengibre",
+        "guavaFrutti": "Sabor único con exótico sabor a guayaba",
+        "passionFrutti": "Frescura deliciosa con aroma tropical de maracuyá",
+        "soursopFrutti": "Sabor especial con exótico sabor a guanábana",
+        "tamerhindiFrutti": "Sabor tradicional de tamarindo",
+        "coconutFrutti": "Frescura deliciosa con aroma tropical de coco",
+        "colaFrutti": "Bebida refrescante con sabor clásico de cola",
+        "gazozFrutti": "Momentos agradables con sabor tradicional de gaseosa",
+        "lolipopFrutti": "Sabor especial con divertido sabor a chupeta",
+        "karisikFrutti": "Sabor rico con sabores de frutas mixtas",
+        "keitaPortakal": "Calidad Keita con aroma de naranja fresca",
+        "keitaAnanas": "Sabor Keita con aroma tropical de piña",
+        "keitaCola": "Calidad Keita con sabor clásico de cola",
+        "keitaChopChop": "Sabor especial de mezcla Keita Chop Chop",
+        "keitaZencefil": "Sabor especial Keita con aroma cálido de jengibre",
+        "shirinoPortakal": "Calidad Shirino con aroma de naranja fresca",
+        "shirinoSeftali": "Sabor Shirino con sabor dulce a durazno",
+        "shirinoVisne": "Sabor especial con sabor agridulce a cereza",
+        "shirinoLimon": "Calidad Shirino con aroma refrescante de limón",
+        "brawoo2in1": "Sabor práctico con café instantáneo 2 en 1",
+        "frutti3in1Kutu": "Café instantáneo 3 en 1 en empaque de caja",
+        "frutti3in1Poset": "Café instantáneo 3 en 1 en empaque de sobre",
+        "buzlas": "Bebida de granizado refrescante",
+        "letsGo": "Bebida Lets Go que da energía",
+        "ikiliSlush": "Servicio profesional con máquina de granizado dual",
+        "ucluSlush": "Servicio de alta capacidad con máquina de granizado triple"
+      }
+    },
+    "whyUs": {
+      "badge": "¿POR QUÉ ELEGIRNOS?",
+      "title": "¿Por qué Roversan Food?",
+      "description": "Continuamos siendo líderes en la industria alimentaria con calidad, confianza y soluciones innovadoras",
+      "features": {
+        "natural": {
+          "title": "Productos 100% Naturales",
+          "description": "Producimos productos de la más alta calidad utilizando ingredientes naturales y saludables."
+        },
+        "certificates": {
+          "title": "Certificados Internacionales",
+          "description": "Ofrecemos estándares de calidad confiables con nuestros certificados ISO, Halal y Kosher."
+        },
+        "global": {
+          "title": "Exportación Global",
+          "description": "Estamos en una posición sólida en el mercado global exportando a más de 50 países."
+        },
+        "modern": {
+          "title": "Instalación Moderna",
+          "description": "Garantizamos los más altos estándares de calidad e higiene con nuestras instalaciones de producción de última generación."
+        },
+        "customer": {
+          "title": "Satisfacción del Cliente",
+          "description": "La satisfacción de nuestros clientes es nuestra prioridad. Estamos con usted en cada paso."
+        },
+        "quality": {
+          "title": "Garantía de Calidad",
+          "description": "Continuamos siendo una marca confiable ofreciendo una garantía de calidad en todos nuestros productos."
+        }
+      }
+    },
+    "about": {
+      "badge": "Nosotros",
+      "title": "Acerca de Roversan Food",
+      "description": "Producimos en las categorías de bebidas en polvo y café con altos estándares de calidad.",
+      "points": {
+        "certificates": "Garantía con certificados ISO, Halal y Kosher",
+        "variety": "Amplia gama de sabores y calidad consistente",
+        "export": "Red de exportación que se extiende a más de 50 países"
+      },
+      "cta": {
+        "aboutDetails": "Detalles sobre Nosotros",
+        "certificates": "Nuestros Certificados"
+      },
+      "summary": {
+        "badge": "Nosotros",
+        "title": "Producción premium en instalaciones modernas, sabor que se encuentra con el mundo",
+        "description": "En nuestras instalaciones de producción modernas en Şanlıurfa, producimos bajo diversas marcas en las categorías de bebidas en polvo y café con altos estándares de calidad.",
+        "point1": "Garantía con certificados ISO, Halal y Kosher",
+        "point2": "Amplia gama de sabores y calidad consistente",
+        "point3": "Red de exportación que se extiende a más de 50 países",
+        "button1": "Detalles sobre Nosotros",
+        "button2": "Calidad y Certificados",
+        "stat1": "Países",
+        "stat2": "Enfoque en Calidad",
+        "stat3": "Productos",
+        "premiumProduction": "Producción Premium",
+        "currentStandards": "Estándares actuales"
+      },
+      "keywords": {
+        "premium": "Premium",
+        "iso": "ISO",
+        "halal": "Halal",
+        "kosher": "Kosher",
+        "global": "Global",
+        "taste": "Sabor",
+        "innovation": "Innovación",
+        "trust": "Confianza"
+      }
+    },
+    "categories": {
+      "title": "Nuestras Categorías de Productos",
+      "subtitle": "Soluciones para cada necesidad con nuestra amplia gama de productos",
+      "sectionTitle": "CATEGORÍAS DE PRODUCTOS",
+      "sectionHeading": "Amplia Gama de Productos",
+      "sectionDescription": "Ofrecemos las mejores soluciones con categorías de productos de calidad y diversas adecuadas para cada necesidad",
+      "exploreCategory": "Explorar Categoría",
+      "exploreAll": "Explorar Todos los Productos",
+      "frutti": {
+        "name": "Frutti Dream",
+        "series": "Serie de Bebidas en Polvo",
+        "description": "Amplias opciones de sabor con naranja, fresa, limón, mango y más",
+        "badge": "20+ Sabores"
+      },
+      "keita": {
+        "name": "Keita",
+        "series": "Serie de Bebidas en Polvo",
+        "description": "Sabor premium con cola, jengibre, piña, chop chop y naranja",
+        "badge": "5+ Premium"
+      },
+      "shirino": {
+        "name": "Shirino",
+        "series": "Serie de Bebidas en Polvo",
+        "description": "Sabores refrescantes con naranja, limón, melocotón y cereza",
+        "badge": "4+ Especiales"
+      },
+      "coffee": {
+        "name": "Café Instantáneo",
+        "series": "Serie de Café Instantáneo",
+        "description": "Solución práctica y deliciosa con variedades de café instantáneo 3 en 1",
+        "badge": "☕ Café Premium"
+      }
+    },
+    "stats": {
+      "title": "Roversan Food en Números",
+      "description": "Números que muestran nuestro éxito",
+      "products": {
+        "title": "Variedad de Productos",
+        "description": "Amplia cartera de productos"
+      },
+      "countries": {
+        "title": "Países de Exportación",
+        "description": "Alcance global"
+      },
+      "quality": {
+        "title": "Garantía de Calidad",
+        "description": "Control estricto de calidad"
+      },
+      "experience": {
+        "title": "Años de Experiencia",
+        "description": "Líder de la Industria"
+      },
+      "certificate": {
+        "title": "Certificados",
+        "description": "Documentos de Calidad"
+      }
+    },
+    "brands": {
+      "title": "¡Conozca Nuestros Productos de Calidad!",
+      "description": "Le ofrecemos el mejor servicio con nuestro portafolio de marcas en constante expansión, combinando calidad y sabor.",
+      "sectionTitle": "🏆 NUESTRAS MARCAS",
+      "sectionHeading": "Marcas de Confianza",
+      "sectionDescription": "Descubra nuestras marcas preferidas en todo el mundo",
+      "premiumProducts": "Productos Premium",
+      "brandNames": {
+        "frutti": "Frutti",
+        "keita": "Keita",
+        "shirino": "Shirino",
+        "brawoo": "Brawoo",
+        "fruttiKahve": "Frutti Café",
+        "brawali": "Brawali",
+        "fresh": "Fresh"
+      }
+    }
+  },
+  "products": {
+    "hero": {
+      "badge": "🛍️ NUESTRO CATÁLOGO DE PRODUCTOS",
+      "title": "Productos Premium",
+      "subtitle": "Donde la calidad se encuentra con el sabor. Cada producto refleja nuestro compromiso con la excelencia. ✨",
+      "cta": {
+        "title": "¿Necesita Pedidos al Por Mayor?",
+        "downloadCatalog": "Descargar Catálogo PDF"
+      }
+    },
+    "search": {
+      "placeholder": "Buscar productos...",
+      "noResults": "No se encontraron productos"
+    },
+    "categories": {
+      "all": "Todos",
+      "frutti": "Bebida en Polvo Frutti Dream",
+      "keita": "Bebida en Polvo Keita",
+      "shirino": "Bebida en Polvo Shirino",
+      "fruttiDreamLolipop": "Chupeta Frutti Dream",
+      "kahve": "Café Instantáneo",
+      "enerji": "Bebida Energética",
+      "buzlaş": "Máquina de Granizado"
+    },
+    "categorySubtitle": {
+      "frutti": "Serie de Bebidas en Polvo Frutti Dream",
+      "keita": "Serie de Bebidas en Polvo Keita",
+      "shirino": "Serie de Bebidas en Polvo Shirino",
+      "fruttiDreamLolipop": "Variedades de Chupeta Frutal Colorida",
+      "kahve": "Serie de Café Instantáneo",
+      "enerji": "Bebida Energética",
+      "buzlaş": "Serie de Máquinas de Granizado"
+    },
+    "modal": {
+      "brand": "Marca",
+      "weight": "Peso / Cantidad",
+      "code": "Código / Cód. P.",
+      "packInfo": "Unidades por paquete",
+      "variants": "Variantes",
+      "details": "Detalles",
+      "features": "Características",
+      "close": "Cerrar",
+      "showInfo": "Ver Información del Producto",
+      "hideInfo": "Ocultar Información del Producto",
+      "showInfoMobile": "Info",
+      "hideInfoMobile": "Ocultar"
+    },
+    "features": {
+      "tasty": "Sabroso",
+      "premium": "Calidad Premium",
+      "iso": "Certificado ISO",
+      "light": "Fórmula Ligera",
+      "taurine": "Taurina",
+      "carbonated": "Sabor Carbonatado",
+      "guaranteed": "Garantizado",
+      "quality": "Calidad",
+      "quick": "Preparación Rápida",
+      "antioxidant": "Antioxidante",
+      "citrus": "Aroma Cítrico",
+      "labels": {
+        "vitaminC": "Vitamina C",
+        "naturalFlavor": "Sabor Natural",
+        "easyPreparation": "Preparación Fácil",
+        "refreshing": "Refrescante",
+        "tasty": "Sabroso",
+        "premiumQuality": "Calidad Premium",
+        "energyBoosting": "Energizante",
+        "richTaste": "Sabor Rico",
+        "practical": "Práctico",
+        "isoCertified": "Certificado ISO",
+        "lightFormula": "Fórmula Ligera",
+        "refreshingEffect": "Refrescante",
+        "naturalTastes": "Sabores Naturales",
+        "healthy": "Saludable",
+        "economical": "Económico",
+        "premiumCoffee": "Café Premium",
+        "creamy": "Cremoso",
+        "aromatic": "Aromático",
+        "energy": "Energía",
+        "caffeine": "Cafeína",
+        "bVitamins": "Vitaminas B",
+        "carbonatedTaste": "Sabor Carbonatado",
+        "professional": "Profesional",
+        "durable": "Durable",
+        "efficient": "Eficiente",
+        "guaranteed": "Garantizado",
+        "quality": "Calidad",
+        "creamyTexture": "Textura Cremosa",
+        "aromaticNotes": "Notas Aromáticas",
+        "quickPreparation": "Preparación Rápida",
+        "qualityLabel": "Calidad",
+        "freshTaste": "Sabor Fresco",
+        "antioxidant": "Antioxidante",
+        "citrusAroma": "Aroma Cítrico",
+        "betaCarotene": "Beta-Caroteno",
+        "intenseTaste": "Sabor Intenso",
+        "bromelain": "Bromelina",
+        "tropicalAroma": "Aroma Tropical",
+        "vitaminA": "Vitamina A",
+        "tropical": "Tropical",
+        "superC": "Super C",
+        "fiber": "Fibra",
+        "fresh": "Fresco",
+        "pectin": "Pectina",
+        "appleAroma": "Aroma de Manzana",
+        "lightDrink": "Bebida Ligera",
+        "intenseAroma": "Aroma Intenso",
+        "exotic": "Exótico",
+        "mineral": "Mineral",
+        "sourSweet": "Agridulce",
+        "ginger": "Jengibre",
+        "potassium": "Potasio",
+        "coconut": "Coco",
+        "colaFlavor": "Sabor Cola",
+        "revitalizing": "Revitalizante",
+        "foamy": "Espumoso",
+        "fruitMix": "Mezcla de Frutas",
+        "vitaminSupport": "Soporte de Vitaminas"
+      },
+      "descriptions": {
+        "dailyNeed80": "80% de la necesidad diaria",
+        "noArtificialSweetener": "Sin edulcorante artificial",
+        "readyIn30Sec": "Listo en 30 segundos",
+        "idealForIced": "Ideal para bebidas frías",
+        "realFruitTaste": "Sabor a fruta real",
+        "specialFormula": "Fórmula especial",
+        "allDayEnergy": "Energía todo el día",
+        "intenseFlavor": "Sabor intenso",
+        "prepareAnywhere": "Preparar en cualquier lugar",
+        "qualityGuarantee": "Garantía de calidad",
+        "lowCalorie": "Bajas calorías",
+        "coolingEffect": "Efecto refrescante",
+        "noArtificialColor": "Sin color artificial",
+        "vitaminEnriched": "Enriquecido con vitaminas",
+        "affordablePrice": "Precio asequible",
+        "selectBeans": "Granos selectos",
+        "softTexture": "Textura suave",
+        "intenseScent": "Aroma intenso",
+        "caffeineBoost": "Impulso de cafeína",
+        "readyNow": "Listo ahora",
+        "vigorAndPerformance": "Vigor y rendimiento",
+        "metabolismSupport": "Soporte metabólico",
+        "quickEnergy": "Energía rápida",
+        "moreEnjoyableWithIce": "Más agradable con hielo",
+        "revitalizingDrink": "Bebida revitalizante",
+        "forBusinesses": "Para empresas",
+        "longLasting": "Duradero",
+        "lowEnergy": "Bajo consumo de energía",
+        "twoYearWarranty": "Garantía de 2 años",
+        "premiumMaterial": "Material premium",
+        "energyAndFocus": "Energía y enfoque",
+        "softDrink": "Bebida suave",
+        "richCoffeeAroma": "Rico aroma a café",
+        "justAddHotWater": "Solo agregue agua caliente",
+        "selectedBeanBlend": "Mezcla de granos seleccionados",
+        "highVitaminC": "Alta vitamina C",
+        "citrusFreshness": "Frescura cítrica",
+        "naturalProtection": "Protección natural",
+        "perfectWithIce": "Perfecto con hielo",
+        "immunitySupport": "Soporte inmunológico",
+        "naturalOrangeTaste": "Sabor natural a naranja",
+        "naturalColorAndFlavor": "Color y sabor natural",
+        "idealForSummer": "Ideal para el verano",
+        "richPolyphenols": "Ricos polifenoles",
+        "dailySupport": "Soporte diario",
+        "balancedSourSweet": "Equilibrado agridulce",
+        "naturalEnzymeSupport": "Soporte enzimático natural",
+        "exoticFlavor": "Sabor exótico",
+        "dailyContribution": "Contribución diaria",
+        "naturalSupport": "Soporte natural",
+        "freshFruitTaste": "Sabor a fruta fresca",
+        "refinedFlavor": "Sabor refinado",
+        "betaCaroteneSource": "Fuente de beta-caroteno",
+        "intenseFruitAroma": "Aroma intenso a fruta",
+        "greatWithIce": "Excelente con hielo",
+        "veryHighVitaminC": "Muy alta vitamina C",
+        "lightAndBalanced": "Ligero y equilibrado",
+        "sharpFreshness": "Frescura aguda",
+        "naturalFiber": "Fibra natural",
+        "balancedTaste": "Sabor equilibrado",
+        "suitableForEveryDay": "Adecuado para todos los días",
+        "naturalPhytoComponents": "Componentes fito-naturales",
+        "richFruitNote": "Nota rica a fruta",
+        "sweetAndBalanced": "Dulce y equilibrado",
+        "lightContent": "Contenido ligero",
+        "strongAromaticTaste": "Sabor aromático fuerte",
+        "specialFruitAroma": "Aroma especial a fruta",
+        "naturalMineralSource": "Fuente mineral natural",
+        "balancedFlavor": "Sabor equilibrado",
+        "freshnessAndWarming": "Frescura y efecto cálido",
+        "sharpAndBalanced": "Agudo y equilibrado",
+        "tropicalCreamyTaste": "Sabor cremoso tropical",
+        "classicFlavor": "Sabor clásico",
+        "coolingDrink": "Bebida refrescante",
+        "lightCarbonatedFeel": "Sensación ligeramente carbonatada",
+        "lemonadeHint": "Toque de limonada",
+        "richAromaProfile": "Perfil de aroma rico",
+        "balancedContent": "Contenido equilibrado"
+      }
+    },
+    "productNames": {
+      "portakalFrutti": "Bebida en Polvo Sabor Naranja",
+      "çilekFrutti": "Bebida en Polvo Sabor Fresa",
+      "mangoFrutti": "Bebida en Polvo Sabor Mango",
+      "ananasFrutti": "Bebida en Polvo Sabor Piña",
+      "colaFrutti": "Bebida en Polvo Sabor Cola",
+      "coconutFrutti": "Bebida en Polvo Sabor Coco",
+      "limonFrutti": "Bebida en Polvo Sabor Limón",
+      "narFrutti": "Bebida en Polvo Sabor Granada",
+      "muzFrutti": "Bebida en Polvo Sabor Plátano",
+      "zencefilFrutti": "Bebida en Polvo Sabor Jengibre",
+      "şeftaliFrutti": "Bebida en Polvo Sabor Durazno",
+      "karışıkFrutti": "Bebida en Polvo Sabor Mixto",
+      "tamerhindiFrutti": "Bebida en Polvo Sabor Tamarindo",
+      "soursopFrutti": "Bebida en Polvo Sabor Guanábana",
+      "passionFrutti": "Bebida en Polvo Sabor Maracuyá",
+      "guavaFrutti": "Bebida en Polvo Sabor Guayaba",
+      "kiviFrutti": "Bebida en Polvo Sabor Kiwi",
+      "elmaFrutti": "Bebida en Polvo Sabor Manzana",
+      "gazozFrutti": "Bebida en Polvo Sabor Gaseosa",
+      "kirazFrutti": "Bebida en Polvo Sabor Cereza",
+      "lolipopFrutti": "Variedades de Chupeta Frutal Colorida",
+      "keitaAnanas": "Bebida en Polvo Sabor Piña",
+      "keitaChopChop": "Bebida en Polvo Sabor Chop Chop",
+      "keitaCola": "Bebida en Polvo Sabor Cola",
+      "keitaPortakal": "Bebida en Polvo Sabor Naranja",
+      "keitaZencefil": "Bebida en Polvo Sabor Jengibre",
+      "shirinoLimon": "Bebida en Polvo Sabor Limón",
+      "shirinoPortakal": "Bebida en Polvo Sabor Naranja",
+      "shirinoŞeftali": "Bebida en Polvo Sabor Durazno",
+      "shirinoVişne": "Bebida en Polvo Sabor Cereza",
+      "brawoo2in1": "Café Brawoo 2 en 1 Instantáneo",
+      "brawoo3in1": "Café Brawoo 3 en 1 Instantáneo",
+      "brawoo3in1Karisik": "Café Brawoo 3 en 1 Instantáneo",
+      "brawoo3in1Findik": "Café Brawoo 3 en 1 con Sabor a Avellana Instantáneo",
+      "frutti3in1Kutu": "Café Frutti 3 en 1 (Caja) - Café Instantáneo",
+      "frutti3in1Poşet": "Café Frutti 3 en 1 (Sobre) - Café Instantáneo",
+      "dubaiCappucino": "Brawali Cappuccino Chocolate Dubai - Café Instantáneo",
+      "letsGoEnergy": "Let's Go Energy Drink - Bebida Energética",
+      "ikiliSlush": "Máquina de Granizado Dual - Máquina de Granizado",
+      "üçlüSlush": "Máquina de Granizado Triple - Máquina de Granizado"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "La Dirección de Calidad y Confianza",
+      "subtitle": "Sabor",
+      "description": "Con más de 20 años de experiencia, producimos soluciones confiables e innovadoras en la industria alimentaria"
+    },
+    "stats": {
+      "productVariety": "Variedad de Productos",
+      "exportCountries": "Países de Exportación",
+      "qualityGuarantee": "Garantía de Calidad",
+      "yearsExperience": "Años de Experiencia"
+    },
+    "mission": {
+      "title": "Nuestra Misión",
+      "description": "Brindar el mejor servicio a nuestros clientes en todo el mundo produciendo productos alimenticios de calidad"
+    },
+    "vision": {
+      "title": "Nuestra Visión",
+      "description": "Estar en una posición líder en la industria alimentaria y asegurar un crecimiento sostenible"
+    },
+    "goals": {
+      "title": "Nuestros Objetivos",
+      "items": {
+        "quality": "Mejora Continua de la Calidad",
+        "innovation": "Desarrollo de Productos Innovadores",
+        "expansion": "Expansión del Mercado Global",
+        "sustainability": "Producción Sostenible"
+      }
+    },
+    "values": {
+      "badge": "NUESTROS VALORES FUNDAMENTALES",
+      "title": "Valores que Nos Diferencian",
+      "subtitle": "Principios que definen nuestra forma de hacer negocios y nos destacan",
+      "items": {
+        "quality": {
+          "title": "Calidad",
+          "description": "Producción según los más altos estándares"
+        },
+        "innovation": {
+          "title": "Innovación",
+          "description": "Desarrollo continuo e I+D"
+        },
+        "trust": {
+          "title": "Confianza",
+          "description": "Relaciones basadas en la confianza con nuestros clientes"
+        },
+        "global": {
+          "title": "Visión Global",
+          "description": "Crecimiento en los mercados mundiales"
+        }
+      }
+    },
+    "company": {
+      "badge": "NUESTRA EMPRESA",
+      "title": "Roversan Food",
+      "description1": "Somos una empresa líder especializada en la producción de bebidas en polvo y café en nuestras instalaciones modernas en el Sitio de Fabricantes de Alimentos GAP de Şanlıurfa.",
+      "description2": "Nuestras bebidas en polvo y productos de café producidos bajo diversas marcas son preferidos por una amplia audiencia en los mercados nacionales e internacionales.",
+      "description3": "Producimos en pleno cumplimiento de los estándares internacionales de calidad en nuestras instalaciones modernas.",
+      "trustProduction": "Producción Confiable",
+      "fullyCertified": "Totalmente Certificado",
+      "isoCertified": "Certificado ISO",
+      "internationalQuality": "Calidad Internacional"
+    },
+    "missionVision": {
+      "badge": "VISIÓN Y MISIÓN",
+      "mission": {
+        "description1": "Producir productos de bebidas en polvo y café según los más altos estándares de calidad y ofrecer productos deliciosos y confiables a nuestros clientes.",
+        "description2": "Ser una marca líder en la industria manteniendo la satisfacción del cliente en el nivel más alto con nuestros productos innovadores y servicio de calidad."
+      },
+      "vision": {
+        "description1": "Ser una marca global en la industria alimentaria y agregar valor continuamente a nuestros clientes.",
+        "description2": "Agregar valor a la industria con nuestro enfoque innovador, productos de calidad y crecimiento sostenible."
+      },
+      "goals": {
+        "title": "Nuestros Objetivos",
+        "description": "Nuestras estrategias orientadas al futuro y valores fundamentales"
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contáctenos",
+      "description": "Póngase en contacto con nosotros para sus preguntas, sugerencias u ofertas de colaboración"
+    },
+    "form": {
+      "name": "Nombre Completo",
+      "namePlaceholder": "Su Nombre Completo",
+      "email": "Correo Electrónico",
+      "emailPlaceholder": "ejemplo@email.com",
+      "phone": "Teléfono",
+      "phonePlaceholder": "+90 5XX XXX XX XX",
+      "country": "País",
+      "countryPlaceholder": "Seleccionar País",
+      "subject": "Asunto",
+      "message": "Su Mensaje",
+      "messagePlaceholder": "Escriba su mensaje aquí...",
+      "send": "Enviar Mensaje",
+      "sending": "Enviando...",
+      "success": "¡Su mensaje ha sido enviado con éxito!",
+      "error": "Ocurrió un error. Por favor, intente nuevamente.",
+      "required": "Este campo es obligatorio",
+      "subjects": {
+        "select": "Seleccionar Asunto",
+        "general": "Información General",
+        "product": "Información del Producto",
+        "export": "Solicitud de Exportación",
+        "price": "Cotización de Precio",
+        "other": "Otro"
+      },
+      "title": "Envíenos un Mensaje",
+      "selectSubject": "Seleccionar Asunto",
+      "willReply": "Nos pondremos en contacto con usted lo antes posible.",
+      "errorMessage": "Por favor, intente nuevamente o contáctenos por teléfono."
+    },
+    "referral": {
+      "title": "¿Dónde se enteró de Roversan?",
+      "subtitle": "(Puede marcar múltiples opciones)",
+      "fairs": "Ferias / Eventos",
+      "website": "Internet / Sitio Web",
+      "social": "Redes Sociales",
+      "recommendation": "Recomendación / Referencia",
+      "search": "Búsqueda de Google",
+      "industry": "Dentro de la Industria",
+      "other": "Otro"
+    },
+    "cta": {
+      "title": "¿Necesita Más Información?",
+      "description": "Para obtener información detallada sobre nuestros productos, servicios y oportunidades de colaboración, consulte nuestros catálogos.",
+      "productCatalog": "Catálogo de Productos",
+      "contactUs": "Contáctenos",
+      "googleMaps": "Abrir en Google Maps"
+    },
+      "info": {
+        "title": "Nuestra Información de Contacto",
+        "address": "Dirección",
+        "phone": "Teléfono y Fax",
+        "whatsapp": "WhatsApp",
+        "email": "Correo Electrónico",
+        "hours": "Horario de Trabajo",
+        "hoursDetail": "Lunes - Viernes: 08:00 - 18:00\nSábado: 09:00 - 14:00\nDomingo: Cerrado",
+        "quickContact": {
+          "title": "Contacto Rápido",
+          "description": "Para situaciones urgentes y solicitudes rápidas de cotizaciones, puede contactarnos directamente por teléfono.",
+          "call": "Llamar Ahora",
+          "whatsapp": "Mensaje en WhatsApp"
+        },
+        "addressDetail": "Kadıkendi Mah. 8502. Cad. No: 12\nEyyübiye / Şanlıurfa / Turquía",
+        "phoneNumber": "+90 414 316 63 69",
+        "whatsappNumber": "+90 542 721 32 29",
+        "whatsappMessage": "Hola, me gustaría obtener información sobre Roversan Food.",
+        "whatsappAvailable": "Enviar Mensaje 24/7",
+        "emailDetail": "info@roversan.com",
+        "phoneFax": "Teléfono y Fax"
+      },
+    "map": {
+      "locationTitle": "Nuestra Ubicación",
+      "facilityName": "Instalaciones de Roversan Food",
+      "getDirections": "Obtener Direcciones",
+      "callNow": "Llamar Ahora",
+      "visitTitle": "Visítenos",
+      "visitDescription": "Puede contactarnos para visitar nuestras instalaciones",
+      "requiredFields": " Los campos marcados con * son obligatorios",
+      "formDescription": "Complete el formulario, nos pondremos en contacto con usted lo antes posible."
+    }
+  },
+  "certificates": {
+    "hero": {
+      "title": "Calidad y Certificados",
+      "description": "Producción según estándares internacionales de calidad y pleno cumplimiento"
+    },
+    "qualityPolicy": {
+      "title": "Nuestra Política de Calidad",
+      "description1": "Como Roversan Food, adoptamos los más altos estándares en seguridad alimentaria y gestión de calidad.",
+      "description2": "Cumplimos plenamente con los estándares internacionales de calidad con nuestros certificados ISO 9001, ISO 22000, HACCP, Halal, Kosher y GMP.",
+      "description3": "Ofrecemos los productos más confiables y de calidad a nuestros clientes realizando control de calidad en todos nuestros procesos de producción."
+    },
+    "principles": {
+      "foodSafety": {
+        "title": "Seguridad Alimentaria",
+        "description": "Control de seguridad alimentaria en cada etapa desde la entrada de materias primas hasta el producto final"
+      },
+      "hygiene": {
+        "title": "Estándares de Higiene",
+        "description": "Normas de higiene y protocolos de limpieza de clase mundial"
+      },
+      "improvement": {
+        "title": "Mejora Continua",
+        "description": "Revisión y desarrollo continuo de sistemas de gestión de calidad"
+      }
+    },
+    "certificates": {
+      "iso9001": {
+        "title": "ISO 9001:2015",
+        "description": "Confirmamos que nuestros procesos de producción se gestionan según estándares internacionales con nuestro certificado de Sistema de Gestión de Calidad.",
+        "scope": "Producción y venta de productos alimenticios"
+      },
+      "iso22000": {
+        "title": "ISO 22000:2018",
+        "description": "Garantizamos la seguridad alimentaria en todos los procesos con nuestro certificado de Sistema de Gestión de Seguridad Alimentaria.",
+        "scope": "Sistema de gestión de seguridad alimentaria"
+      },
+      "haccp": {
+        "title": "HACCP",
+        "description": "Analizamos y controlamos los riesgos de seguridad alimentaria con el sistema de Análisis de Peligros y Puntos de Control Críticos.",
+        "scope": "Gestión de puntos de control críticos"
+      },
+      "halal": {
+        "title": "Certificado Halal",
+        "description": "Servimos a los mercados musulmanes con nuestro certificado Halal que confirma que la producción se realiza de acuerdo con las reglas islámicas.",
+        "scope": "Certificación Halal Internacional"
+      },
+      "kosher": {
+        "title": "Certificado Kosher",
+        "description": "Llegamos a un amplio mercado con nuestro certificado Kosher que muestra que la producción se realiza de acuerdo con las reglas religiosas judías.",
+        "scope": "Certificación Kosher Internacional"
+      },
+      "gmp": {
+        "title": "GMP",
+        "description": "Cumplimos plenamente con los estándares de Buenas Prácticas de Manufactura.",
+        "scope": "Optimización de procesos de producción"
+      }
+    },
+    "qualityControl": {
+      "badge": "⚙️ PROCESO DE CALIDAD",
+      "title": "Nuestro Sistema de Control de Calidad de 5 Etapas",
+      "description": "Cada uno de nuestros productos pasa por 5 etapas críticas desde la producción hasta el envío",
+      "steps": {
+        "raw": {
+          "title": "Control de Materias Primas",
+          "description": "Todas las materias primas pasan por un estricto control de calidad antes de ingresar a nuestra instalación."
+        },
+        "production": {
+          "title": "Controles Durante la Producción",
+          "description": "Se realizan controles regulares en los puntos de control críticos determinados durante la producción."
+        },
+        "lab": {
+          "title": "Análisis de Laboratorio",
+          "description": "Se toman muestras de cada lote de producción y se realizan análisis microbiológicos y químicos."
+        },
+        "packaging": {
+          "title": "Control de Empaque",
+          "description": "En la etapa de empaque, se verifica la información de la etiqueta, el peso y la integridad del empaque."
+        },
+        "final": {
+          "title": "Control del Producto Final",
+          "description": "Se realizan controles finales antes del envío y se envían a los clientes los productos que cumplen con todos los criterios de calidad."
+        }
+      }
+    },
+    "badge": "🏆 NUESTROS CERTIFICADOS",
+    "assurance": {
+      "title": "Nuestra Garantía de Calidad",
+      "description": "Probamos nuestro compromiso con la calidad con nuestros certificados según estándares internacionales",
+      "scope": "Alcance:"
+    },
+    "cta": {
+      "title": "Información Detallada Sobre Certificados de Calidad",
+      "description": "Puede contactarnos para obtener más información sobre nuestros certificados y sistema de gestión de calidad."
+    }
+  },
+  "catalog": {
+    "hero": {
+      "title": "Catálogo de Productos",
+      "description": "Revise todos nuestros productos en detalle. Puede acceder a la información del producto descargando nuestro catálogo en formato PDF."
+    },
+    "catalog": {
+      "title": "Catálogo de Roversan Food",
+      "description": "Descargue nuestro catálogo detallado que contiene toda nuestra gama de productos, especificaciones técnicas y opciones de empaque.",
+      "download": "Descargar Catálogo (PDF)",
+      "allProducts": "Todos los Productos",
+      "productCount": "50+ Productos",
+      "items": {
+        "powerDrinks": "Varios productos de bebidas en polvo",
+        "coffee": "Productos de café instantáneo",
+        "machines": "Máquinas de granizado y equipos",
+        "technical": "Especificaciones técnicas e información de empaque"
+      }
+    },
+    "features": {
+      "products": {
+        "title": "50+ Productos",
+        "description": "Respondemos a todas sus necesidades con nuestra amplia gama de productos."
+      },
+      "details": {
+        "title": "Información Detallada",
+        "description": "Especificaciones técnicas e información de uso para cada producto."
+      },
+      "access": {
+        "title": "Acceso Fácil",
+        "description": "Descargue en formato PDF y revise cuando lo desee."
+      }
+    },
+    "preview": {
+      "title": "Vista Previa del Catálogo",
+      "description": "Puede revisar nuestro catálogo a continuación o descargarlo como PDF",
+      "pdfTitle": "Catálogo PDF",
+      "interactive": "Vista previa interactiva",
+      "iframeTitle": "Vista Previa del Catálogo de Roversan Food",
+      "close": "Cerrar"
+    },
+    "badges": {
+      "pdfFormat": "Formato PDF",
+      "multiLanguage": "Multi Idioma",
+      "premium": "Premium"
+    },
+    "buttons": {
+      "fullscreen": "Pantalla Completa",
+      "download": "Descargar"
+    },
+    "cta": {
+      "title": "Para Información Detallada",
+      "description": "Contáctenos para obtener más información sobre nuestros productos o solicitar una cotización de precios."
+    }
+  },
+  "terms": {
+    "title": "Términos de Uso",
+    "intro": "Al usar este sitio web, se considera que ha aceptado los siguientes términos de uso. Por favor, lea los términos cuidadosamente.",
+    "sections": {
+      "general": {
+        "title": "1. Uso General",
+        "content": "Este sitio web es operado por Roversan Food. El contenido del sitio es solo para fines informativos y puede ser cambiado sin previo aviso."
+      },
+      "property": {
+        "title": "2. Derechos de Propiedad Intelectual",
+        "content": "Todo el contenido, diseño, logo, texto, imágenes y otros materiales en este sitio web son propiedad de Roversan Food y están protegidos por derechos de autor."
+      },
+      "restrictions": {
+        "title": "3. Restricciones de Uso",
+        "intro": "No debe usar el sitio web para los siguientes propósitos:",
+        "illegal": "Para fines ilegales o no autorizados",
+        "rights": "De una manera que viole los derechos de otros",
+        "virus": "Para difundir software malicioso o virus",
+        "security": "De una manera que amenace la seguridad del sitio"
+      },
+      "product": {
+        "title": "4. Información del Producto",
+        "content": "La información del producto y los precios en el sitio web son solo para fines informativos. Roversan Food se reserva el derecho de cambiar las características y precios del producto sin previo aviso."
+      },
+      "thirdParty": {
+        "title": "5. Enlaces de Terceros",
+        "content": "Nuestro sitio web puede contener enlaces a sitios web de terceros. Roversan Food no es responsable del contenido de estos sitios."
+      },
+      "liability": {
+        "title": "6. Limitación de Responsabilidad",
+        "content": "Roversan Food no puede ser considerada responsable de los daños directos o indirectos derivados del uso del sitio web."
+      },
+      "changes": {
+        "title": "7. Cambios",
+        "content": "Roversan Food se reserva el derecho de actualizar estos términos de uso en cualquier momento. Los cambios se publicarán en esta página."
+      },
+      "law": {
+        "title": "8. Ley Aplicable",
+        "content": "Estos términos de uso están sujetos a las leyes de la República de Turquía. En caso de disputas, los tribunales de Şanlıurfa y las oficinas de ejecución están autorizados."
+      },
+      "contact": {
+        "title": "9. Contacto",
+        "intro": "Para preguntas sobre términos de uso:",
+        "company": "Roversan Food",
+        "address": "Kadıkendi Mah. 8502. Cad. No: 12\nEyyübiye / Şanlıurfa / Turquía",
+        "emailLabel": "Correo Electrónico:",
+        "phoneLabel": "Teléfono:",
+        "faxLabel": "Fax:"
+      }
+    },
+    "lastUpdate": "Última actualización: Enero 2025"
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "intro": "Como Roversan Food, valoramos la seguridad de sus datos personales y cumplimos con nuestras obligaciones bajo la Ley No. 6698 sobre la Protección de Datos Personales (\"KVKK\").",
+    "sections": {
+      "data": {
+        "title": "1. Datos Recopilados",
+        "intro": "Los siguientes datos personales pueden ser recopilados a través de nuestro sitio web:",
+        "name": "Nombre y apellido",
+        "email": "Dirección de correo electrónico",
+        "phone": "Número de teléfono",
+        "messages": "Mensajes de contacto"
+      },
+      "usage": {
+        "title": "2. Propósito del Uso de Datos",
+        "intro": "Los datos personales recopilados se utilizan para los siguientes propósitos:",
+        "contact": "Responder solicitudes de contacto",
+        "info": "Información de productos y servicios",
+        "satisfaction": "Asegurar la satisfacción del cliente",
+        "legal": "Cumplir obligaciones legales"
+      },
+      "security": {
+        "title": "3. Seguridad de Datos",
+        "content": "Sus datos personales están protegidos con medidas de seguridad apropiadas contra el acceso y uso no autorizados."
+      },
+      "cookies": {
+        "title": "4. Cookies",
+        "content": "Nuestro sitio web puede usar cookies para mejorar la experiencia del usuario. Puede controlar las cookies desde la configuración de su navegador."
+      },
+      "rights": {
+        "title": "5. Sus Derechos",
+        "intro": "Bajo KVKK, tiene los siguientes derechos:",
+        "learn": "Aprender si sus datos personales están siendo procesados",
+        "request": "Solicitar información sobre datos procesados",
+        "correct": "Solicitar corrección de datos",
+        "delete": "Solicitar eliminación de datos"
+      },
+      "contact": {
+        "title": "6. Contacto",
+        "intro": "Puede contactarnos para preguntas sobre nuestra política de privacidad:",
+        "emailLabel": "Correo Electrónico:",
+        "phoneLabel": "Teléfono:"
+      }
+    },
+    "lastUpdate": "Última actualización: Enero 2025",
+    "disclosure": {
+      "title": "Texto de Divulgación",
+      "intro": "De acuerdo con la Ley de Protección de Datos Personales No. 6698, nos gustaría informarle sobre el procesamiento de sus datos personales.",
+      "dataController": {
+        "title": "Responsable de Datos",
+        "content": "Roversan Food, como responsable de sus datos personales, es responsable del procesamiento de estos datos."
+      },
+      "purpose": {
+        "title": "Propósito del Procesamiento de Datos",
+        "content": "Sus datos personales se procesan con el fin de responder a sus solicitudes de contacto, proporcionar información sobre productos y servicios, análisis del sitio y cumplir con las obligaciones legales."
+      },
+      "thirdParties": {
+        "title": "Compartir con Terceros",
+        "content": "Sus datos pueden ser compartidos con herramientas analíticas como Google Analytics y Meta Pixel. Estas herramientas se utilizan para analizar el uso del sitio."
+      },
+      "retention": {
+        "title": "Período de Retención de Datos",
+        "content": "Sus datos personales se conservan durante los períodos requeridos por los períodos de retención legal y el propósito del procesamiento."
+      }
+    },
+    "cookieBanner": {
+      "title": "Uso de Cookies",
+      "message": "Nuestro sitio web utiliza cookies para brindarle la mejor experiencia. Se utilizan herramientas analíticas como Google Analytics y Meta Pixel.",
+      "accept": "Aceptar",
+      "reject": "Rechazar",
+      "settings": "Configuración",
+      "learnMore": "Más Información"
+    }
+  },
+  "gallery": {
+    "hero": {
+      "title": "Galería",
+      "description": "Nuestros comerciales, momentos especiales de nuestras ferias y eventos"
+    },
+    "advertisement": {
+      "title": "Nuestros Anuncios",
+      "heading": "Descubre Nuestra Marca",
+      "description": "Descubre la historia y calidad de nuestros productos",
+      "latestVideos": "Los últimos videos comerciales de nuestra marca"
+    },
+    "photos": {
+      "title": "Fotos de la Galería"
+    },
+    "modal": {
+      "close": "Cerrar",
+      "previous": "Anterior",
+      "next": "Siguiente"
+    }
+  },
+  "footer": {
+    "company": {
+      "name": "Roversan Food",
+      "description": "Su socio comercial confiable en producción y exportación de alimentos de calidad."
+    },
+    "quickLinks": {
+      "title": "Enlaces Rápidos",
+      "about": "Nosotros",
+      "products": "Nuestros Productos",
+      "catalog": "Catálogo",
+      "certificates": "Calidad y Certificados",
+      "contact": "Contacto"
+    },
+    "products": {
+      "title": "Nuestros Productos",
+      "frutti": "Bebidas en Polvo Frutti",
+      "keita": "Bebidas en Polvo Keita",
+      "shirino": "Bebidas en Polvo Shirino",
+      "brawoo": "Café Brawoo",
+      "brawali": "Café Brawali",
+      "fruttiKahve": "Café Frutti",
+      "letsgo": "Bebida Energética Let's Go",
+      "fresh": "Fresh",
+      "machines": "Máquinas de Granizado"
+    },
+    "contact": {
+      "title": "Contacto",
+      "address": "Kadıkendi Mah. 8502. Cad. No: 12,\nEyyübiye / Şanlıurfa / Turquía",
+      "phone": "+90 414 316 63 69",
+      "whatsapp": "+90 542 721 32 29",
+      "email": "info@roversan.com"
+    },
+    "copyright": "© {year} Roversan Food. Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Uso",
+    "developedBy": "✨ Desarrollado por"
+  },
+  "languages": {
+    "tr": "Türkçe",
+    "en": "English",
+    "ar": "العربية",
+    "es": "Español"
+  },
+  "metadata": {
+    "title": "Roversan Food - Producción de Bebidas en Polvo y Café",
+    "description": "Productos de bebidas en polvo y café de calidad con nuestra amplia gama de productos y diversas marcas. Producimos en nuestras instalaciones modernas en Şanlıurfa.",
+    "keywords": "roversan, bebida en polvo, café 3 en 1, café instantáneo, máquina de granizado, alimentos şanlıurfa, café listo, producción de alimentos"
+  }
+}
+
